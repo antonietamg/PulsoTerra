@@ -2,8 +2,6 @@
 
 PulsoTerra turns NASA temperature maps into music for everyone. Explore Vivaldi, eight climate impact soundscapes, and expressive heartbeats, with screen reader support, keyboard navigation, and dyslexia-friendly text to include blind, low-vision, and dyslexic users.
 
-The name **PulsoTerra** stays the same in English and Spanish.
-
 [Open the public app](https://pulso-tierra-rgb-anton.akisunshin.chatgpt.site/) · [User guide](docs/USER_GUIDE.md) · [NVDA and accessibility](docs/ACCESSIBILITY.md) · [Team and authorship](AUTHORS.md)
 
 ## What you can explore
