@@ -14,7 +14,7 @@ The team supplied the purpose and constraints, chose RGB-based sonification, and
 
 It supplied the MIDI, alien videos, dated record images, and ENTRAMADO Lab branding, and directed how they should appear. It required a single fluid performance rather than a track per location, cursor exploration without holding a click, an original/reference comparison, stronger heartbeat presence, smoother water violins, and gradual tension as anomalies move away from reference.
 
-The team corrected the branding to PulsoTerra, removed the NASA logo, requested native English alongside Spanish, and required a dyslexia font, low-vision preferences, and independent access for blind visitors. It repeatedly rejected unsatisfactory sound or interface results and redirected revisions. These feedback and acceptance decisions remained human responsibilities.
+The team requested native English alongside Spanish, and required a dyslexia font, low-vision preferences, and independent access for blind visitors. It repeatedly rejected unsatisfactory sound or interface results and redirected revisions. These feedback and acceptance decisions remained human responsibilities.
 
 ## How ChatGPT and Codex assisted
 
