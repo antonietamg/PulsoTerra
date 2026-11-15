@@ -1,0 +1,325 @@
+{
+  "version": 2,
+  "samples": [
+    {
+      "id": "violin_g3",
+      "instrument": "violin",
+      "midi": 55,
+      "url": "assets/audio/instruments/violin_g3.mp3"
+    },
+    {
+      "id": "violin_c4",
+      "instrument": "violin",
+      "midi": 60,
+      "url": "assets/audio/instruments/violin_c4.mp3"
+    },
+    {
+      "id": "violin_e4",
+      "instrument": "violin",
+      "midi": 64,
+      "url": "assets/audio/instruments/violin_e4.mp3"
+    },
+    {
+      "id": "strings_g3",
+      "instrument": "strings",
+      "midi": 55,
+      "url": "assets/audio/instruments/strings_g3.mp3"
+    },
+    {
+      "id": "strings_a3",
+      "instrument": "strings",
+      "midi": 57,
+      "url": "assets/audio/instruments/strings_a3.mp3"
+    },
+    {
+      "id": "strings_d4",
+      "instrument": "strings",
+      "midi": 62,
+      "url": "assets/audio/instruments/strings_d4.mp3"
+    },
+    {
+      "id": "cello_c2",
+      "instrument": "cello",
+      "midi": 36,
+      "url": "assets/audio/instruments/cello_c2.mp3"
+    },
+    {
+      "id": "cello_e2",
+      "instrument": "cello",
+      "midi": 40,
+      "url": "assets/audio/instruments/cello_e2.mp3"
+    },
+    {
+      "id": "cello_g2",
+      "instrument": "cello",
+      "midi": 43,
+      "url": "assets/audio/instruments/cello_g2.mp3"
+    },
+    {
+      "id": "cello_c4",
+      "instrument": "cello",
+      "midi": 60,
+      "url": "assets/audio/instruments/cello_c4.mp3"
+    },
+    {
+      "id": "flute_c4",
+      "instrument": "flute",
+      "midi": 60,
+      "url": "assets/audio/instruments/flute_c4.mp3"
+    },
+    {
+      "id": "flute_e4",
+      "instrument": "flute",
+      "midi": 64,
+      "url": "assets/audio/instruments/flute_e4.mp3"
+    },
+    {
+      "id": "flute_a4",
+      "instrument": "flute",
+      "midi": 69,
+      "url": "assets/audio/instruments/flute_a4.mp3"
+    },
+    {
+      "id": "clarinet_d3",
+      "instrument": "clarinet",
+      "midi": 50,
+      "url": "assets/audio/instruments/clarinet_d3.mp3"
+    },
+    {
+      "id": "clarinet_f3",
+      "instrument": "clarinet",
+      "midi": 53,
+      "url": "assets/audio/instruments/clarinet_f3.mp3"
+    },
+    {
+      "id": "clarinet_bb3",
+      "instrument": "clarinet",
+      "midi": 58,
+      "url": "assets/audio/instruments/clarinet_bb3.mp3"
+    },
+    {
+      "id": "harp_c3",
+      "instrument": "harp",
+      "midi": 48,
+      "url": "assets/audio/instruments/harp_c3.mp3"
+    },
+    {
+      "id": "harp_e3",
+      "instrument": "harp",
+      "midi": 52,
+      "url": "assets/audio/instruments/harp_e3.mp3"
+    },
+    {
+      "id": "harp_g3",
+      "instrument": "harp",
+      "midi": 55,
+      "url": "assets/audio/instruments/harp_g3.mp3"
+    },
+    {
+      "id": "horn_c4",
+      "instrument": "horn",
+      "midi": 60,
+      "url": "assets/audio/instruments/horn_c4.mp3"
+    },
+    {
+      "id": "horn_f3",
+      "instrument": "horn",
+      "midi": 53,
+      "url": "assets/audio/instruments/horn_f3.mp3"
+    },
+    {
+      "id": "trombone_c4",
+      "instrument": "trombone",
+      "midi": 60,
+      "url": "assets/audio/instruments/trombone_c4.mp3"
+    },
+    {
+      "id": "piano_c4",
+      "instrument": "piano",
+      "midi": 60,
+      "url": "assets/audio/instruments/piano_c4.mp3"
+    },
+    {
+      "id": "piano_e4",
+      "instrument": "piano",
+      "midi": 64,
+      "url": "assets/audio/instruments/piano_e4.mp3"
+    },
+    {
+      "id": "piano_gs4",
+      "instrument": "piano",
+      "midi": 68,
+      "url": "assets/audio/instruments/piano_gs4.mp3"
+    },
+    {
+      "id": "violin_a3",
+      "instrument": "violin",
+      "midi": 57,
+      "url": "assets/audio/instruments/violin_a3.mp3"
+    },
+    {
+      "id": "violin_g4",
+      "instrument": "violin",
+      "midi": 67,
+      "url": "assets/audio/instruments/violin_g4.mp3"
+    },
+    {
+      "id": "violin_a4",
+      "instrument": "violin",
+      "midi": 69,
+      "url": "assets/audio/instruments/violin_a4.mp3"
+    },
+    {
+      "id": "violin_c5",
+      "instrument": "violin",
+      "midi": 72,
+      "url": "assets/audio/instruments/violin_c5.mp3"
+    },
+    {
+      "id": "violin_e5",
+      "instrument": "violin",
+      "midi": 76,
+      "url": "assets/audio/instruments/violin_e5.mp3"
+    },
+    {
+      "id": "muted_violin_g3",
+      "instrument": "mutedstrings",
+      "midi": 55,
+      "url": "assets/audio/instruments/muted_violin_g3.mp3"
+    },
+    {
+      "id": "muted_violin_bb3",
+      "instrument": "mutedstrings",
+      "midi": 58,
+      "url": "assets/audio/instruments/muted_violin_bb3.mp3"
+    },
+    {
+      "id": "muted_violin_cs4",
+      "instrument": "mutedstrings",
+      "midi": 61,
+      "url": "assets/audio/instruments/muted_violin_cs4.mp3"
+    },
+    {
+      "id": "muted_violin_d4",
+      "instrument": "mutedstrings",
+      "midi": 62,
+      "url": "assets/audio/instruments/muted_violin_d4.mp3"
+    },
+    {
+      "id": "muted_violin_a4",
+      "instrument": "mutedstrings",
+      "midi": 69,
+      "url": "assets/audio/instruments/muted_violin_a4.mp3"
+    },
+    {
+      "id": "choir-o",
+      "instrument": "choir",
+      "midi": 65,
+      "url": "assets/audio/instruments/choir-o.mp3"
+    },
+    {
+      "id": "animal-frog",
+      "instrument": "animal",
+      "midi": null,
+      "url": "assets/audio/instruments/animal-frog.mp3"
+    },
+    {
+      "id": "animal-insect",
+      "instrument": "animal",
+      "midi": null,
+      "url": "assets/audio/instruments/animal-insect.mp3"
+    },
+    {
+      "id": "animal-owl",
+      "instrument": "animal",
+      "midi": null,
+      "url": "assets/audio/instruments/animal-owl.mp3"
+    },
+    {
+      "id": "animal-blackbird",
+      "instrument": "animal",
+      "midi": null,
+      "url": "assets/audio/instruments/animal-blackbird.mp3"
+    },
+    {
+      "id": "heartbeat-real",
+      "instrument": "heartbeat",
+      "midi": null,
+      "url": "assets/audio/instruments/heartbeat-real.mp3"
+    },
+    {
+      "id": "snare-1",
+      "instrument": "snare",
+      "midi": null,
+      "url": "assets/audio/instruments/snare-1.mp3"
+    },
+    {
+      "id": "snare-2",
+      "instrument": "snare",
+      "midi": null,
+      "url": "assets/audio/instruments/snare-2.mp3"
+    },
+    {
+      "id": "bassdrum",
+      "instrument": "bassdrum",
+      "midi": null,
+      "url": "assets/audio/instruments/bassdrum.mp3"
+    },
+    {
+      "id": "anvil",
+      "instrument": "anvil",
+      "midi": null,
+      "url": "assets/audio/instruments/anvil.mp3"
+    },
+    {
+      "id": "brakedrum",
+      "instrument": "brakedrum",
+      "midi": null,
+      "url": "assets/audio/instruments/brakedrum.mp3"
+    }
+  ],
+  "previews": {
+    "water": {
+      "label": "Agua · violines suaves con arco",
+      "url": "assets/audio/previews/agua-violines.mp3"
+    },
+    "biodiversity": {
+      "label": "Biodiversidad · cuatro tipos de animales",
+      "url": "assets/audio/previews/biodiversidad-variedad.mp3"
+    },
+    "biodiversityExtreme": {
+      "label": "Biodiversidad extrema · sólo cárabo",
+      "url": "assets/audio/previews/biodiversidad-extremo.mp3"
+    },
+    "forests": {
+      "label": "Bosques · cuerdas suaves y vientos",
+      "url": "assets/audio/previews/bosque-cuerdas-vientos.mp3"
+    },
+    "oceans": {
+      "label": "Océanos · arpa, cuerdas y metales",
+      "url": "assets/audio/previews/oceano-arpa-cuerdas-metales.mp3"
+    },
+    "marine": {
+      "label": "Vida marina · flauta y violonchelo",
+      "url": "assets/audio/previews/vida-marina-flauta-cello.mp3"
+    },
+    "humans": {
+      "label": "Personas · voces humanas reales",
+      "url": "assets/audio/previews/humanos-coro.mp3"
+    },
+    "food": {
+      "label": "Alimentos · piano solo",
+      "url": "assets/audio/previews/alimentos-piano.mp3"
+    },
+    "economy": {
+      "label": "Economía · marcha industrial",
+      "url": "assets/audio/previews/economia-marcha-industrial.mp3"
+    },
+    "heartbeat": {
+      "label": "Latido humano · grabación tratada",
+      "url": "assets/audio/previews/latido-humano.mp3"
+    }
+  },
+  "creditsUrl": "assets/audio/CREDITOS.txt",
+  "licenseUrl": "assets/audio/licencias.json"
+}

@@ -1,0 +1,134 @@
+PULSO TIERRA — BUKVIC MUTED VIOLIN DERIVATIVE PACKAGE
+Paquete de fuentes y cambios / Source and changes — noviembre de 2026
+
+ORIGINAL COPYRIGHT AND CREDITS
+Copyright Ivica Ico Bukvic 2005.
+Violinist / violinista: Rena Ishii, named and thanked in the original README.
+Original package: Violin "Con Sordino" Soundfont.
+Official source: https://ico.bukvic.net/Linux/violin_sordino.tar.bz2
+Author's announcement (30 April 2005):
+https://lalists.stanford.edu/lad/2005/04/0410.html
+
+EXACT LICENSE ELECTION / LICENCIA EXACTA ELEGIDA
+For this modified package we elect and preserve the Artistic License,
+Version 2.0beta4, October 2000, exactly as included in License-original.txt.
+The original README calls the release GPL/Artistic 2.0; the supplied text
+contains the beta4 text and a Perl6 proposal mentioning GPL version 1 or
+later. We do not replace that file with Artistic 2.0 final, do not mark these
+samples CC0, and do not rely on interpreting the appended Perl6 proposal as
+a separate, unambiguous GPL grant for these sound recordings.
+
+The operational redistribution route used here is sections 4(c) and 6(a):
+changes are identified and corresponding editable source plus recipes are
+provided. Recipients are explicitly permitted and encouraged to make these
+modifications Freely Available under the same included license. Original
+notices and disclaimers are preserved verbatim. Section 7 permits aggregation
+with other packages; this notice imposes no new license fee. The separate
+player and CC0 input packages merely use these samples (section 9).
+
+These statements describe the package's distribution terms and our chosen
+compliance route; they do not assert that beta4 is the stable Artistic 2.0.
+
+COMPLETE SOURCE DOWNLOAD / DESCARGA DE FUENTES
+The local/public source bundle is ../sordino-source.zip, relative to this
+directory, or assets/audio/sordino-source.zip relative to the app root.
+Public direct link:
+https://pulso-tierra-rgb-anton.akisunshin.chatgpt.site/assets/audio/sordino-source.zip
+Download and unzip it in any folder. It includes the full original 22.6 MB
+tar.bz2 (containing the original editable SF2 and its README/license), this
+notice, the exact original notices, and portable extraction/encoding and
+forest-composition recipes. This is source delivery, not a promise to email
+source on request. It is not necessary to download source to play the app.
+
+Original archive SHA-256:
+7c396a5c7f4abf74a3fefbf9a5f4e36e18c5230ea4c2127973d10a53782f0948
+Original SF2 SHA-256:
+10816a83b64a236141dcc59b219db843e40b8e27c38893d58cea4a7073b13c6b
+
+MODIFICATIONS / CAMBIOS
+Renamed derivative package: Pulso Tierra - Bukvic muted violin extraction.
+Selected original SF2 PCM recordings: G3, Bb3, C#4, D4 and A4. We did not
+select the _limit variations. Selected MIDI roots: 55, 58, 61, 62, 69.
+Public IDs: muted_violin_g3, muted_violin_bb3, muted_violin_cs4,
+muted_violin_d4, muted_violin_a4; bank instrument family: mutedstrings.
+
+rebuild_samples.py reads PCM directly from the complete original SF2,
+writes mono PCM16 WAV at 44.1 kHz, and normalizes peak to 0.85. The browser
+variants retain the first six seconds, apply a 150 ms fade-out, and encode
+MP3 mono 44.1 kHz / 160 kbit/s using FFmpeg/libmp3lame. No artificial mute
+filter or oscillator was used. Python 3 and NumPy rebuild WAV; FFmpeg in
+PATH additionally encodes MP3. FFmpeg/NumPy are separate tools, not included
+or relicensed by this source package. Encoder versions may change MP3 bytes.
+
+Example:
+python rebuild_samples.py --archive violin_sordino.tar.bz2 --out rebuilt
+python fetch_cc0_sources.py --out cc0-inputs
+python compose_forest_muted.py --muted-dir rebuilt --cc0-dir cc0-inputs --out bosque-cuerdas-vientos.wav
+
+The HISTORICAL Python forest preview uses original motifs, time envelopes, stereo placement,
+resampling/transposition and mixing of the actual muted violin plus CC0
+flute/clarinet recordings. Its Bukvic-derived arrangement and rendered audio
+are distributed under this same Artistic License Version 2.0beta4, not CC0.
+The CC0 input recordings retain their own CC0 status. Their pinned upstream
+source URLs, original hashes and preparation recipe are in cc0-inputs.json
+and fetch_cc0_sources.py. They remain separate CC0 packages. The source
+bundle omits duplicate CC0 WAVs to fit the hosting file-size limit; the helper
+downloads and validates their original source recordings and prepares them.
+See the composition recipe for exact events and source selection.
+
+The individual Bukvic samples, extraction recipe, modified data and original
+contributions to the forest derivative remain under the included beta4
+license. Other original Pulso Tierra motifs without Bukvic-derived material
+may be CC0 as declared individually in licencias.json. CC BY heartbeat data
+also retain their separate original license.
+
+ARTICULATION AND LIMITS / ARTICULACIÓN Y LÍMITES
+The author's announcement and README identify a real con-sordino violin;
+the announcement describes straight tone / no vibrato. This resolves the
+previous lack of recorded muted strings. It is one recorded violinist, not
+a complete orchestral section. Source dynamic piano/pp is not specified;
+softness is a playback/mixing choice. The notes are approximately 8–14 cents
+sharp relative to A4=440 Hz; MIDI roots are measured, not blindly copied from
+generic SF2 originalPitch values. No recording of Wagner is included. No
+human listening test is asserted by this notice.
+
+CURRENT PLAYER / PREVIEW REVISION — NOVEMBER 2026
+The current published forest preview is regenerated by the actual app engine
+through OfflineAudioContext, not by the historical Python mixing recipe.
+current-engine/ contains the complete frozen engine, policy, 46-entry bank,
+encoder generator, exact rendering events/settings and reproduction notes.
+The engine and source hashes are recorded in source-files.json.
+
+Progressive musical tension is an original expressive layer based on the
+absolute local temperature anomaly: zero added tension through 0.5 C, linear
+increase to full tension at 2 C. It may alter harmony, envelopes, continuity
+and fragmentation, with the same recorded instrument families. The muted
+violin derivative and new forest arrangement/rendering remain under the
+Artistic License Version 2.0beta4 supplied here; these new original forest
+contributions are not dedicated to CC0.
+
+Water playback additionally starts one second into the genuine bowed sample
+for a sustained attack region; the original sample WAV is not changed.
+Preview MP3 delivery: constant gain scales each raw preview WAV peak to 0.8,
+with a 60 ms final fade, then MP3/libmp3lame 160 kbit/s at 44.1 kHz. This changes
+preview-file presentation level, not the original app mix or the raw Web
+Audio WAV; it preserves internal dynamics except for the final fade.
+
+The exact current event recipe is current-engine/render-recipes.json.
+Economy remains the industrial march at 90 BPM. Values are local anomaly
+examples, not quantitative global warming scenarios or inferred pixel damage.
+The source package deliberately excludes QA baseline fixtures and temporary
+local HTTP test infrastructure.
+
+CURRENT ANTO UPDATE — DESHIELO REPLACES FOOD
+Active bank: 50 samples, version 3. Current engine SHA-256:
+15f759381b036018aa00488eadf89395621c9b88ba0e9d171981ce8c911905b0
+The original Bukvic tar archive, exact notices, modified muted-violin sources
+and forest license remain unchanged. The nine retained Anto previews keep
+their previous bytes and original renderer provenance. Only the food preview
+is replaced by the byte-identical Sun Deshielo MP3, without re-encoding.
+Current sources/events are in current-engine/; the former published renderer
+for retained previews is in retained-previews-engine/. Ice source metadata,
+CC0 notices, processing and original Sun recipe are in ice-source/.
+No actual glacier recording is claimed. The active app still has 8 categories;
+no regional or other-seven-theme changes from Sun were imported.

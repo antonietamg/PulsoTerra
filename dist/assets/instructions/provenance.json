@@ -1,0 +1,22 @@
+[
+  {
+    "language": "en-US",
+    "voice": "Microsoft Zira",
+    "file": "nvda-en.mp3",
+    "sha256": "40b157db5780fd0e2f86a652cfa603ea86ab71909f87e802f2966619e71acb50",
+    "bytes": 2418460,
+    "method": "Local Windows System.Speech synthesis; rate -1; mono MP3 44.1 kHz/96 kbps; loudness target -18 LUFS, true peak -2 dBTP",
+    "transcript": "docs/audio-guide-scripts.json",
+    "kind": "Synthetic speech, not a recording of a team member"
+  },
+  {
+    "language": "es-MX",
+    "voice": "Microsoft Sabina Desktop",
+    "file": "nvda-es.mp3",
+    "sha256": "dd103f2c0ebd09fbd5db4f158eb99e133e8537b16ca99396971561de79afa003",
+    "bytes": 3122199,
+    "method": "Local Windows System.Speech synthesis; rate -1; mono MP3 44.1 kHz/96 kbps; loudness target -18 LUFS, true peak -2 dBTP",
+    "transcript": "docs/audio-guide-scripts.json",
+    "kind": "Synthetic speech, not a recording of a team member"
+  }
+]

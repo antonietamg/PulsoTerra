@@ -1,0 +1,6244 @@
+{
+  "version": 6,
+  "engineSha256": "15f759381b036018aa00488eadf89395621c9b88ba0e9d171981ce8c911905b0",
+  "sampleBankVersion": 3,
+  "sampleCount": 50,
+  "duration": 16,
+  "masterVolume": 0.68,
+  "description": "Anto: Alimentos sustituido por Deshielo de Sun. Se preservan las preescuchas anteriores de las otras siete categorías y las dos pruebas. Deshielo se importa sin recodificar; cada pista conserva su procedencia original. El motor actual conserva los métodos de las categorías retenidas.",
+  "tracks": [
+    {
+      "id": "water",
+      "name": "agua-violines",
+      "constant": null,
+      "heart": false,
+      "music": true,
+      "show": true,
+      "events": [
+        {
+          "time": 0,
+          "options": {
+            "value": 0,
+            "impactId": "water",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 0,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 1,
+          "options": {
+            "value": 0,
+            "impactId": "water",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 1,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 2,
+          "options": {
+            "value": 0,
+            "impactId": "water",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 2,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 3,
+          "options": {
+            "value": 0.75,
+            "impactId": "water",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 3,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 3.6666666666666665,
+          "options": {
+            "value": 0.75,
+            "impactId": "water",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 4,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 4.333333333333333,
+          "options": {
+            "value": 0.75,
+            "impactId": "water",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 5,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 5,
+          "options": {
+            "value": 0.75,
+            "impactId": "water",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 6,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 5.666666666666667,
+          "options": {
+            "value": 0.75,
+            "impactId": "water",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 7,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 6.333333333333334,
+          "options": {
+            "value": 1.25,
+            "impactId": "water",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 8,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 6.813333333333334,
+          "options": {
+            "value": 1.25,
+            "impactId": "water",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 9,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 7.293333333333335,
+          "options": {
+            "value": 1.25,
+            "impactId": "water",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 10,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 7.773333333333335,
+          "options": {
+            "value": 1.25,
+            "impactId": "water",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 11,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 8.253333333333336,
+          "options": {
+            "value": 1.25,
+            "impactId": "water",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 12,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 8.733333333333336,
+          "options": {
+            "value": 1.25,
+            "impactId": "water",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 13,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 9.213333333333336,
+          "options": {
+            "value": 1.65,
+            "impactId": "water",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 14,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 9.674871794871798,
+          "options": {
+            "value": 1.65,
+            "impactId": "water",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 15,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 10.13641025641026,
+          "options": {
+            "value": 1.65,
+            "impactId": "water",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 16,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 10.597948717948722,
+          "options": {
+            "value": 1.65,
+            "impactId": "water",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 17,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 11.059487179487183,
+          "options": {
+            "value": 1.65,
+            "impactId": "water",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 18,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 11.521025641025645,
+          "options": {
+            "value": 1.65,
+            "impactId": "water",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 19,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 11.982564102564107,
+          "options": {
+            "value": 1.65,
+            "impactId": "water",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 20,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 12.444102564102568,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 21,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 12.90564102564103,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 22,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 13.367179487179492,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 23,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 13.828717948717953,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 24,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 14.290256410256415,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 25,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 14.751794871794877,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 26,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        }
+      ],
+      "sampleIds": [
+        "violin_a3",
+        "violin_c4",
+        "violin_e4",
+        "violin_g3"
+      ],
+      "originalRenderEngineSha256": "cb7f0a8ffbea4fbcc863d42711e986889948a893d4abf654d48a9d1a375e8750"
+    },
+    {
+      "id": "biodiversity",
+      "name": "biodiversidad-variedad",
+      "constant": null,
+      "heart": false,
+      "music": true,
+      "show": true,
+      "events": [
+        {
+          "time": 0,
+          "options": {
+            "value": 0,
+            "impactId": "biodiversity",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 0,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 1,
+          "options": {
+            "value": 0,
+            "impactId": "biodiversity",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 1,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 2,
+          "options": {
+            "value": 0,
+            "impactId": "biodiversity",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 2,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 3,
+          "options": {
+            "value": 0.4,
+            "impactId": "biodiversity",
+            "pitchMidi": 69,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 3,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 4,
+          "options": {
+            "value": 0.4,
+            "impactId": "biodiversity",
+            "pitchMidi": 69,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 4,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 5,
+          "options": {
+            "value": 0.4,
+            "impactId": "biodiversity",
+            "pitchMidi": 69,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 5,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 6,
+          "options": {
+            "value": 0.8,
+            "impactId": "biodiversity",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 6,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 6.666666666666667,
+          "options": {
+            "value": 0.8,
+            "impactId": "biodiversity",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 7,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 7.333333333333334,
+          "options": {
+            "value": 0.8,
+            "impactId": "biodiversity",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 8,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 8,
+          "options": {
+            "value": 0.8,
+            "impactId": "biodiversity",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 9,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 8.666666666666666,
+          "options": {
+            "value": 0.8,
+            "impactId": "biodiversity",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 10,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 9.333333333333332,
+          "options": {
+            "value": 1.15,
+            "impactId": "biodiversity",
+            "pitchMidi": 65,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 11,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 9.813333333333333,
+          "options": {
+            "value": 1.15,
+            "impactId": "biodiversity",
+            "pitchMidi": 65,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 12,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 10.293333333333333,
+          "options": {
+            "value": 1.15,
+            "impactId": "biodiversity",
+            "pitchMidi": 65,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 13,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 10.773333333333333,
+          "options": {
+            "value": 1.15,
+            "impactId": "biodiversity",
+            "pitchMidi": 65,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 14,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 11.253333333333334,
+          "options": {
+            "value": 1.15,
+            "impactId": "biodiversity",
+            "pitchMidi": 65,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 15,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 11.733333333333334,
+          "options": {
+            "value": 1.15,
+            "impactId": "biodiversity",
+            "pitchMidi": 65,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 16,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 12.213333333333335,
+          "options": {
+            "value": 1.49,
+            "impactId": "biodiversity",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 2,
+            "duration": 0.48,
+            "sequenceIndex": 17,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 12.693333333333335,
+          "options": {
+            "value": 1.49,
+            "impactId": "biodiversity",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 2,
+            "duration": 0.48,
+            "sequenceIndex": 18,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 13.173333333333336,
+          "options": {
+            "value": 1.49,
+            "impactId": "biodiversity",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 2,
+            "duration": 0.48,
+            "sequenceIndex": 19,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 13.653333333333336,
+          "options": {
+            "value": 1.49,
+            "impactId": "biodiversity",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 2,
+            "duration": 0.48,
+            "sequenceIndex": 20,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 14.133333333333336,
+          "options": {
+            "value": 1.49,
+            "impactId": "biodiversity",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 2,
+            "duration": 0.48,
+            "sequenceIndex": 21,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 14.613333333333337,
+          "options": {
+            "value": 1.49,
+            "impactId": "biodiversity",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 2,
+            "duration": 0.48,
+            "sequenceIndex": 22,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        }
+      ],
+      "sampleIds": [
+        "animal-blackbird",
+        "animal-frog",
+        "animal-insect",
+        "animal-owl"
+      ],
+      "originalRenderEngineSha256": "cb7f0a8ffbea4fbcc863d42711e986889948a893d4abf654d48a9d1a375e8750"
+    },
+    {
+      "id": "forests",
+      "name": "bosque-cuerdas-vientos",
+      "constant": null,
+      "heart": false,
+      "music": true,
+      "show": true,
+      "events": [
+        {
+          "time": 0,
+          "options": {
+            "value": 0,
+            "impactId": "forests",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 0,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 1,
+          "options": {
+            "value": 0,
+            "impactId": "forests",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 1,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 2,
+          "options": {
+            "value": 0,
+            "impactId": "forests",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 2,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 3,
+          "options": {
+            "value": 0.75,
+            "impactId": "forests",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 3,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 3.6666666666666665,
+          "options": {
+            "value": 0.75,
+            "impactId": "forests",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 4,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 4.333333333333333,
+          "options": {
+            "value": 0.75,
+            "impactId": "forests",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 5,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 5,
+          "options": {
+            "value": 0.75,
+            "impactId": "forests",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 6,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 5.666666666666667,
+          "options": {
+            "value": 0.75,
+            "impactId": "forests",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 7,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 6.333333333333334,
+          "options": {
+            "value": 1.25,
+            "impactId": "forests",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 8,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 6.813333333333334,
+          "options": {
+            "value": 1.25,
+            "impactId": "forests",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 9,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 7.293333333333335,
+          "options": {
+            "value": 1.25,
+            "impactId": "forests",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 10,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 7.773333333333335,
+          "options": {
+            "value": 1.25,
+            "impactId": "forests",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 11,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 8.253333333333336,
+          "options": {
+            "value": 1.25,
+            "impactId": "forests",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 12,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 8.733333333333336,
+          "options": {
+            "value": 1.25,
+            "impactId": "forests",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 13,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 9.213333333333336,
+          "options": {
+            "value": 1.65,
+            "impactId": "forests",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 14,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 9.674871794871798,
+          "options": {
+            "value": 1.65,
+            "impactId": "forests",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 15,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 10.13641025641026,
+          "options": {
+            "value": 1.65,
+            "impactId": "forests",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 16,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 10.597948717948722,
+          "options": {
+            "value": 1.65,
+            "impactId": "forests",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 17,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 11.059487179487183,
+          "options": {
+            "value": 1.65,
+            "impactId": "forests",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 18,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 11.521025641025645,
+          "options": {
+            "value": 1.65,
+            "impactId": "forests",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 19,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 11.982564102564107,
+          "options": {
+            "value": 1.65,
+            "impactId": "forests",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 20,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 12.444102564102568,
+          "options": {
+            "value": 2,
+            "impactId": "forests",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 21,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 12.90564102564103,
+          "options": {
+            "value": 2,
+            "impactId": "forests",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 22,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 13.367179487179492,
+          "options": {
+            "value": 2,
+            "impactId": "forests",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 23,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 13.828717948717953,
+          "options": {
+            "value": 2,
+            "impactId": "forests",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 24,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 14.290256410256415,
+          "options": {
+            "value": 2,
+            "impactId": "forests",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 25,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 14.751794871794877,
+          "options": {
+            "value": 2,
+            "impactId": "forests",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 26,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        }
+      ],
+      "sampleIds": [
+        "clarinet_bb3",
+        "flute_a4",
+        "flute_e4",
+        "muted_violin_cs4",
+        "muted_violin_g3"
+      ],
+      "originalRenderEngineSha256": "cb7f0a8ffbea4fbcc863d42711e986889948a893d4abf654d48a9d1a375e8750"
+    },
+    {
+      "id": "oceans",
+      "name": "oceano-arpa-cuerdas-metales",
+      "constant": null,
+      "heart": false,
+      "music": true,
+      "show": true,
+      "events": [
+        {
+          "time": 0,
+          "options": {
+            "value": 0,
+            "impactId": "oceans",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 0,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 1,
+          "options": {
+            "value": 0,
+            "impactId": "oceans",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 1,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 2,
+          "options": {
+            "value": 0,
+            "impactId": "oceans",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 2,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 3,
+          "options": {
+            "value": 0.75,
+            "impactId": "oceans",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 3,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 3.6666666666666665,
+          "options": {
+            "value": 0.75,
+            "impactId": "oceans",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 4,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 4.333333333333333,
+          "options": {
+            "value": 0.75,
+            "impactId": "oceans",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 5,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 5,
+          "options": {
+            "value": 0.75,
+            "impactId": "oceans",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 6,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 5.666666666666667,
+          "options": {
+            "value": 0.75,
+            "impactId": "oceans",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 7,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 6.333333333333334,
+          "options": {
+            "value": 1.25,
+            "impactId": "oceans",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 8,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 6.813333333333334,
+          "options": {
+            "value": 1.25,
+            "impactId": "oceans",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 9,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 7.293333333333335,
+          "options": {
+            "value": 1.25,
+            "impactId": "oceans",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 10,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 7.773333333333335,
+          "options": {
+            "value": 1.25,
+            "impactId": "oceans",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 11,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 8.253333333333336,
+          "options": {
+            "value": 1.25,
+            "impactId": "oceans",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 12,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 8.733333333333336,
+          "options": {
+            "value": 1.25,
+            "impactId": "oceans",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 13,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 9.213333333333336,
+          "options": {
+            "value": 1.65,
+            "impactId": "oceans",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 14,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 9.674871794871798,
+          "options": {
+            "value": 1.65,
+            "impactId": "oceans",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 15,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 10.13641025641026,
+          "options": {
+            "value": 1.65,
+            "impactId": "oceans",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 16,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 10.597948717948722,
+          "options": {
+            "value": 1.65,
+            "impactId": "oceans",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 17,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 11.059487179487183,
+          "options": {
+            "value": 1.65,
+            "impactId": "oceans",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 18,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 11.521025641025645,
+          "options": {
+            "value": 1.65,
+            "impactId": "oceans",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 19,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 11.982564102564107,
+          "options": {
+            "value": 1.65,
+            "impactId": "oceans",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 20,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 12.444102564102568,
+          "options": {
+            "value": 2,
+            "impactId": "oceans",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 21,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 12.90564102564103,
+          "options": {
+            "value": 2,
+            "impactId": "oceans",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 22,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 13.367179487179492,
+          "options": {
+            "value": 2,
+            "impactId": "oceans",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 23,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 13.828717948717953,
+          "options": {
+            "value": 2,
+            "impactId": "oceans",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 24,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 14.290256410256415,
+          "options": {
+            "value": 2,
+            "impactId": "oceans",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 25,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 14.751794871794877,
+          "options": {
+            "value": 2,
+            "impactId": "oceans",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 26,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        }
+      ],
+      "sampleIds": [
+        "harp_c3",
+        "harp_e3",
+        "harp_g3",
+        "horn_c4",
+        "horn_f3",
+        "strings_a3",
+        "strings_d4",
+        "strings_g3",
+        "trombone_c4"
+      ],
+      "originalRenderEngineSha256": "cb7f0a8ffbea4fbcc863d42711e986889948a893d4abf654d48a9d1a375e8750"
+    },
+    {
+      "id": "marine",
+      "name": "vida-marina-flauta-cello",
+      "constant": null,
+      "heart": false,
+      "music": true,
+      "show": true,
+      "events": [
+        {
+          "time": 0,
+          "options": {
+            "value": 0,
+            "impactId": "marine",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 0,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 1,
+          "options": {
+            "value": 0,
+            "impactId": "marine",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 1,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 2,
+          "options": {
+            "value": 0,
+            "impactId": "marine",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 2,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 3,
+          "options": {
+            "value": 0.75,
+            "impactId": "marine",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 3,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 3.6666666666666665,
+          "options": {
+            "value": 0.75,
+            "impactId": "marine",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 4,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 4.333333333333333,
+          "options": {
+            "value": 0.75,
+            "impactId": "marine",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 5,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 5,
+          "options": {
+            "value": 0.75,
+            "impactId": "marine",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 6,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 5.666666666666667,
+          "options": {
+            "value": 0.75,
+            "impactId": "marine",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 7,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 6.333333333333334,
+          "options": {
+            "value": 1.25,
+            "impactId": "marine",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 8,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 6.813333333333334,
+          "options": {
+            "value": 1.25,
+            "impactId": "marine",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 9,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 7.293333333333335,
+          "options": {
+            "value": 1.25,
+            "impactId": "marine",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 10,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 7.773333333333335,
+          "options": {
+            "value": 1.25,
+            "impactId": "marine",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 11,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 8.253333333333336,
+          "options": {
+            "value": 1.25,
+            "impactId": "marine",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 12,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 8.733333333333336,
+          "options": {
+            "value": 1.25,
+            "impactId": "marine",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 13,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 9.213333333333336,
+          "options": {
+            "value": 1.65,
+            "impactId": "marine",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 14,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 9.674871794871798,
+          "options": {
+            "value": 1.65,
+            "impactId": "marine",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 15,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 10.13641025641026,
+          "options": {
+            "value": 1.65,
+            "impactId": "marine",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 16,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 10.597948717948722,
+          "options": {
+            "value": 1.65,
+            "impactId": "marine",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 17,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 11.059487179487183,
+          "options": {
+            "value": 1.65,
+            "impactId": "marine",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 18,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 11.521025641025645,
+          "options": {
+            "value": 1.65,
+            "impactId": "marine",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 19,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 11.982564102564107,
+          "options": {
+            "value": 1.65,
+            "impactId": "marine",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 20,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 12.444102564102568,
+          "options": {
+            "value": 2,
+            "impactId": "marine",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 21,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 12.90564102564103,
+          "options": {
+            "value": 2,
+            "impactId": "marine",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 22,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 13.367179487179492,
+          "options": {
+            "value": 2,
+            "impactId": "marine",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 23,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 13.828717948717953,
+          "options": {
+            "value": 2,
+            "impactId": "marine",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 24,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 14.290256410256415,
+          "options": {
+            "value": 2,
+            "impactId": "marine",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 25,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 14.751794871794877,
+          "options": {
+            "value": 2,
+            "impactId": "marine",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 26,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        }
+      ],
+      "sampleIds": [
+        "cello_c2",
+        "cello_e2",
+        "cello_g2",
+        "flute_a4",
+        "flute_c4",
+        "flute_e4"
+      ],
+      "originalRenderEngineSha256": "cb7f0a8ffbea4fbcc863d42711e986889948a893d4abf654d48a9d1a375e8750"
+    },
+    {
+      "id": "humans",
+      "name": "humanos-coro",
+      "constant": null,
+      "heart": false,
+      "music": true,
+      "show": true,
+      "events": [
+        {
+          "time": 0,
+          "options": {
+            "value": 0,
+            "impactId": "humans",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 0,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 1,
+          "options": {
+            "value": 0,
+            "impactId": "humans",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 1,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 2,
+          "options": {
+            "value": 0,
+            "impactId": "humans",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 2,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 3,
+          "options": {
+            "value": 0.75,
+            "impactId": "humans",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 3,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 3.6666666666666665,
+          "options": {
+            "value": 0.75,
+            "impactId": "humans",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 4,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 4.333333333333333,
+          "options": {
+            "value": 0.75,
+            "impactId": "humans",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 5,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 5,
+          "options": {
+            "value": 0.75,
+            "impactId": "humans",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 6,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 5.666666666666667,
+          "options": {
+            "value": 0.75,
+            "impactId": "humans",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 7,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 6.333333333333334,
+          "options": {
+            "value": 1.25,
+            "impactId": "humans",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 8,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 6.813333333333334,
+          "options": {
+            "value": 1.25,
+            "impactId": "humans",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 9,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 7.293333333333335,
+          "options": {
+            "value": 1.25,
+            "impactId": "humans",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 10,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 7.773333333333335,
+          "options": {
+            "value": 1.25,
+            "impactId": "humans",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 11,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 8.253333333333336,
+          "options": {
+            "value": 1.25,
+            "impactId": "humans",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 12,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 8.733333333333336,
+          "options": {
+            "value": 1.25,
+            "impactId": "humans",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 13,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 9.213333333333336,
+          "options": {
+            "value": 1.65,
+            "impactId": "humans",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 14,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 9.674871794871798,
+          "options": {
+            "value": 1.65,
+            "impactId": "humans",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 15,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 10.13641025641026,
+          "options": {
+            "value": 1.65,
+            "impactId": "humans",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 16,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 10.597948717948722,
+          "options": {
+            "value": 1.65,
+            "impactId": "humans",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 17,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 11.059487179487183,
+          "options": {
+            "value": 1.65,
+            "impactId": "humans",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 18,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 11.521025641025645,
+          "options": {
+            "value": 1.65,
+            "impactId": "humans",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 19,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 11.982564102564107,
+          "options": {
+            "value": 1.65,
+            "impactId": "humans",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 20,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 12.444102564102568,
+          "options": {
+            "value": 2,
+            "impactId": "humans",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 21,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 12.90564102564103,
+          "options": {
+            "value": 2,
+            "impactId": "humans",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 22,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 13.367179487179492,
+          "options": {
+            "value": 2,
+            "impactId": "humans",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 23,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 13.828717948717953,
+          "options": {
+            "value": 2,
+            "impactId": "humans",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 24,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 14.290256410256415,
+          "options": {
+            "value": 2,
+            "impactId": "humans",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 25,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 14.751794871794877,
+          "options": {
+            "value": 2,
+            "impactId": "humans",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 26,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        }
+      ],
+      "sampleIds": [
+        "choir-o"
+      ],
+      "originalRenderEngineSha256": "cb7f0a8ffbea4fbcc863d42711e986889948a893d4abf654d48a9d1a375e8750"
+    },
+    {
+      "id": "ice",
+      "name": "deshielo-gotas-hielo",
+      "heart": false,
+      "music": true,
+      "constant": null,
+      "public": true,
+      "events": [
+        {
+          "time": 0,
+          "options": {
+            "value": 0,
+            "impactId": "ice",
+            "regionId": "neutral",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 0,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 1,
+          "options": {
+            "value": 0,
+            "impactId": "ice",
+            "regionId": "neutral",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 1,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 2,
+          "options": {
+            "value": 0,
+            "impactId": "ice",
+            "regionId": "neutral",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 2,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 3,
+          "options": {
+            "value": 0.75,
+            "impactId": "ice",
+            "regionId": "neutral",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 3,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 3.6666666666666665,
+          "options": {
+            "value": 0.75,
+            "impactId": "ice",
+            "regionId": "neutral",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 4,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 4.333333333333333,
+          "options": {
+            "value": 0.75,
+            "impactId": "ice",
+            "regionId": "neutral",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 5,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 5,
+          "options": {
+            "value": 0.75,
+            "impactId": "ice",
+            "regionId": "neutral",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 6,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 5.666666666666667,
+          "options": {
+            "value": 0.75,
+            "impactId": "ice",
+            "regionId": "neutral",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 7,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 6.333333333333334,
+          "options": {
+            "value": 1.25,
+            "impactId": "ice",
+            "regionId": "neutral",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 8,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 6.813333333333334,
+          "options": {
+            "value": 1.25,
+            "impactId": "ice",
+            "regionId": "neutral",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 9,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 7.293333333333335,
+          "options": {
+            "value": 1.25,
+            "impactId": "ice",
+            "regionId": "neutral",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 10,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 7.773333333333335,
+          "options": {
+            "value": 1.25,
+            "impactId": "ice",
+            "regionId": "neutral",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 11,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 8.253333333333336,
+          "options": {
+            "value": 1.25,
+            "impactId": "ice",
+            "regionId": "neutral",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 12,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 8.733333333333336,
+          "options": {
+            "value": 1.25,
+            "impactId": "ice",
+            "regionId": "neutral",
+            "pitchMidi": 64,
+            "mode": "major",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 3,
+            "duration": 0.48,
+            "sequenceIndex": 13,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 9.213333333333336,
+          "options": {
+            "value": 1.65,
+            "impactId": "ice",
+            "regionId": "neutral",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 14,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 9.674871794871798,
+          "options": {
+            "value": 1.65,
+            "impactId": "ice",
+            "regionId": "neutral",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 15,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 10.13641025641026,
+          "options": {
+            "value": 1.65,
+            "impactId": "ice",
+            "regionId": "neutral",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 16,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 10.597948717948722,
+          "options": {
+            "value": 1.65,
+            "impactId": "ice",
+            "regionId": "neutral",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 17,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 11.059487179487183,
+          "options": {
+            "value": 1.65,
+            "impactId": "ice",
+            "regionId": "neutral",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 18,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 11.521025641025645,
+          "options": {
+            "value": 1.65,
+            "impactId": "ice",
+            "regionId": "neutral",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 19,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 11.982564102564107,
+          "options": {
+            "value": 1.65,
+            "impactId": "ice",
+            "regionId": "neutral",
+            "pitchMidi": 62,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 20,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 12.444102564102568,
+          "options": {
+            "value": 2,
+            "impactId": "ice",
+            "regionId": "neutral",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 21,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 12.90564102564103,
+          "options": {
+            "value": 2,
+            "impactId": "ice",
+            "regionId": "neutral",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 22,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 13.367179487179492,
+          "options": {
+            "value": 2,
+            "impactId": "ice",
+            "regionId": "neutral",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 23,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 13.828717948717953,
+          "options": {
+            "value": 2,
+            "impactId": "ice",
+            "regionId": "neutral",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 24,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 14.290256410256415,
+          "options": {
+            "value": 2,
+            "impactId": "ice",
+            "regionId": "neutral",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 25,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 14.751794871794877,
+          "options": {
+            "value": 2,
+            "impactId": "ice",
+            "regionId": "neutral",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 26,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        }
+      ],
+      "sampleIds": [
+        "sun-drop-1",
+        "sun-drop-2",
+        "sun-glock-c6",
+        "sun-glock-g5",
+        "sun-ice-crack-1",
+        "sun-ice-crack-2"
+      ],
+      "sourceSite": "https://pulso-tierra-sun.akisunshin.chatgpt.site/",
+      "sourceCommit": "537a9ecdfac1a395a6a026d3c3783b17ebe3caf3",
+      "originalRenderEngineSha256": "24af21118d0251e8433e63275f503686797f73964d7fb57c797411d6d11c8dbf",
+      "importedMp3Unchanged": true,
+      "mp3Sha256": "8e11bd7b6df22fbe1c5a2852bc444fda0ab7bbf447b3b42d7cb5aa75ebbb6338"
+    },
+    {
+      "id": "economy",
+      "name": "economia-marcha-industrial",
+      "constant": null,
+      "heart": false,
+      "music": true,
+      "show": true,
+      "events": [
+        {
+          "time": 0,
+          "options": {
+            "value": 0.75,
+            "impactId": "economy",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 0,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 0.6666666666666666,
+          "options": {
+            "value": 0.75,
+            "impactId": "economy",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 1,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 1.3333333333333333,
+          "options": {
+            "value": 0.75,
+            "impactId": "economy",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 2,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 2,
+          "options": {
+            "value": 0.75,
+            "impactId": "economy",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 3,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 2.6666666666666665,
+          "options": {
+            "value": 0.75,
+            "impactId": "economy",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 4,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 3.333333333333333,
+          "options": {
+            "value": 0.75,
+            "impactId": "economy",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 5,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 3.9999999999999996,
+          "options": {
+            "value": 0.75,
+            "impactId": "economy",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 6,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 4.666666666666666,
+          "options": {
+            "value": 0.75,
+            "impactId": "economy",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 7,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 5.333333333333333,
+          "options": {
+            "value": 0.75,
+            "impactId": "economy",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 8,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 6,
+          "options": {
+            "value": 0.75,
+            "impactId": "economy",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 9,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 6.666666666666667,
+          "options": {
+            "value": 0.75,
+            "impactId": "economy",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 10,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 7.333333333333334,
+          "options": {
+            "value": 0.75,
+            "impactId": "economy",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 11,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 8,
+          "options": {
+            "value": 0.75,
+            "impactId": "economy",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 12,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 8.666666666666666,
+          "options": {
+            "value": 0.75,
+            "impactId": "economy",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 13,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 9.333333333333332,
+          "options": {
+            "value": 0.75,
+            "impactId": "economy",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 14,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 9.999999999999998,
+          "options": {
+            "value": 0.75,
+            "impactId": "economy",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 15,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 10.666666666666664,
+          "options": {
+            "value": 0.75,
+            "impactId": "economy",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 16,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 11.33333333333333,
+          "options": {
+            "value": 0.75,
+            "impactId": "economy",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 17,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 11.999999999999996,
+          "options": {
+            "value": 0.75,
+            "impactId": "economy",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 18,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 12.666666666666663,
+          "options": {
+            "value": 0.75,
+            "impactId": "economy",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 19,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 13.333333333333329,
+          "options": {
+            "value": 0.75,
+            "impactId": "economy",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 20,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 13.999999999999995,
+          "options": {
+            "value": 0.75,
+            "impactId": "economy",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 21,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 14.66666666666666,
+          "options": {
+            "value": 0.75,
+            "impactId": "economy",
+            "pitchMidi": 67,
+            "mode": "major",
+            "bpm": 90,
+            "irregular": false,
+            "variety": 4,
+            "duration": 0.6666666666666666,
+            "sequenceIndex": 22,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        }
+      ],
+      "sampleIds": [
+        "anvil",
+        "bassdrum",
+        "brakedrum",
+        "horn_c4",
+        "horn_f3",
+        "snare-1",
+        "trombone_c4"
+      ],
+      "originalRenderEngineSha256": "cb7f0a8ffbea4fbcc863d42711e986889948a893d4abf654d48a9d1a375e8750"
+    },
+    {
+      "id": "biodiversityExtreme",
+      "name": "biodiversidad-extremo",
+      "constant": null,
+      "heart": false,
+      "music": true,
+      "show": true,
+      "events": [
+        {
+          "time": 0,
+          "options": {
+            "value": 1.5,
+            "impactId": "biodiversity",
+            "pitchMidi": 63,
+            "mode": "minor",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 1,
+            "duration": 0.48,
+            "sequenceIndex": 0,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 0.48,
+          "options": {
+            "value": 1.5,
+            "impactId": "biodiversity",
+            "pitchMidi": 63,
+            "mode": "minor",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 1,
+            "duration": 0.48,
+            "sequenceIndex": 1,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 0.96,
+          "options": {
+            "value": 1.5,
+            "impactId": "biodiversity",
+            "pitchMidi": 63,
+            "mode": "minor",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 1,
+            "duration": 0.48,
+            "sequenceIndex": 2,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 1.44,
+          "options": {
+            "value": 1.5,
+            "impactId": "biodiversity",
+            "pitchMidi": 63,
+            "mode": "minor",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 1,
+            "duration": 0.48,
+            "sequenceIndex": 3,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 1.92,
+          "options": {
+            "value": 1.5,
+            "impactId": "biodiversity",
+            "pitchMidi": 63,
+            "mode": "minor",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 1,
+            "duration": 0.48,
+            "sequenceIndex": 4,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 2.4,
+          "options": {
+            "value": 1.5,
+            "impactId": "biodiversity",
+            "pitchMidi": 63,
+            "mode": "minor",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 1,
+            "duration": 0.48,
+            "sequenceIndex": 5,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 2.88,
+          "options": {
+            "value": 1.5,
+            "impactId": "biodiversity",
+            "pitchMidi": 63,
+            "mode": "minor",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 1,
+            "duration": 0.48,
+            "sequenceIndex": 6,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 3.36,
+          "options": {
+            "value": 1.5,
+            "impactId": "biodiversity",
+            "pitchMidi": 63,
+            "mode": "minor",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 1,
+            "duration": 0.48,
+            "sequenceIndex": 7,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 3.84,
+          "options": {
+            "value": 1.5,
+            "impactId": "biodiversity",
+            "pitchMidi": 63,
+            "mode": "minor",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 1,
+            "duration": 0.48,
+            "sequenceIndex": 8,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 4.32,
+          "options": {
+            "value": 2,
+            "impactId": "biodiversity",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 9,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 4.781538461538462,
+          "options": {
+            "value": 2,
+            "impactId": "biodiversity",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 10,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 5.243076923076924,
+          "options": {
+            "value": 2,
+            "impactId": "biodiversity",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 11,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 5.704615384615385,
+          "options": {
+            "value": 2,
+            "impactId": "biodiversity",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 12,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 6.166153846153847,
+          "options": {
+            "value": 2,
+            "impactId": "biodiversity",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 13,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 6.627692307692309,
+          "options": {
+            "value": 2,
+            "impactId": "biodiversity",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 14,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 7.08923076923077,
+          "options": {
+            "value": 2,
+            "impactId": "biodiversity",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 15,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 7.550769230769232,
+          "options": {
+            "value": 2,
+            "impactId": "biodiversity",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 16,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 8.012307692307694,
+          "options": {
+            "value": -1.5,
+            "impactId": "biodiversity",
+            "pitchMidi": 82,
+            "mode": "minor",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 1,
+            "duration": 0.48,
+            "sequenceIndex": 17,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 8.492307692307694,
+          "options": {
+            "value": -1.5,
+            "impactId": "biodiversity",
+            "pitchMidi": 82,
+            "mode": "minor",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 1,
+            "duration": 0.48,
+            "sequenceIndex": 18,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 8.972307692307695,
+          "options": {
+            "value": -1.5,
+            "impactId": "biodiversity",
+            "pitchMidi": 82,
+            "mode": "minor",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 1,
+            "duration": 0.48,
+            "sequenceIndex": 19,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 9.452307692307695,
+          "options": {
+            "value": -1.5,
+            "impactId": "biodiversity",
+            "pitchMidi": 82,
+            "mode": "minor",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 1,
+            "duration": 0.48,
+            "sequenceIndex": 20,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 9.932307692307695,
+          "options": {
+            "value": -1.5,
+            "impactId": "biodiversity",
+            "pitchMidi": 82,
+            "mode": "minor",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 1,
+            "duration": 0.48,
+            "sequenceIndex": 21,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 10.412307692307696,
+          "options": {
+            "value": -1.5,
+            "impactId": "biodiversity",
+            "pitchMidi": 82,
+            "mode": "minor",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 1,
+            "duration": 0.48,
+            "sequenceIndex": 22,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 10.892307692307696,
+          "options": {
+            "value": -1.5,
+            "impactId": "biodiversity",
+            "pitchMidi": 82,
+            "mode": "minor",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 1,
+            "duration": 0.48,
+            "sequenceIndex": 23,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 11.372307692307697,
+          "options": {
+            "value": -1.5,
+            "impactId": "biodiversity",
+            "pitchMidi": 82,
+            "mode": "minor",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 1,
+            "duration": 0.48,
+            "sequenceIndex": 24,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 11.852307692307697,
+          "options": {
+            "value": -1.5,
+            "impactId": "biodiversity",
+            "pitchMidi": 82,
+            "mode": "minor",
+            "bpm": 125,
+            "irregular": false,
+            "variety": 1,
+            "duration": 0.48,
+            "sequenceIndex": 25,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 12.332307692307698,
+          "options": {
+            "value": -2,
+            "impactId": "biodiversity",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 26,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 12.79384615384616,
+          "options": {
+            "value": -2,
+            "impactId": "biodiversity",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 27,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 13.25538461538462,
+          "options": {
+            "value": -2,
+            "impactId": "biodiversity",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 28,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 13.716923076923083,
+          "options": {
+            "value": -2,
+            "impactId": "biodiversity",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 29,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 14.178461538461544,
+          "options": {
+            "value": -2,
+            "impactId": "biodiversity",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 30,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 14.640000000000006,
+          "options": {
+            "value": -2,
+            "impactId": "biodiversity",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 31,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        }
+      ],
+      "sampleIds": [
+        "animal-owl"
+      ],
+      "originalRenderEngineSha256": "cb7f0a8ffbea4fbcc863d42711e986889948a893d4abf654d48a9d1a375e8750"
+    },
+    {
+      "id": "heartbeat",
+      "name": "latido-humano",
+      "constant": 0,
+      "heart": true,
+      "music": false,
+      "show": true,
+      "events": [
+        {
+          "time": 0,
+          "options": {
+            "value": 0,
+            "impactId": "water",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 0,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": true
+          }
+        },
+        {
+          "time": 1,
+          "options": {
+            "value": 0,
+            "impactId": "water",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 1,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": true
+          }
+        },
+        {
+          "time": 2,
+          "options": {
+            "value": 0,
+            "impactId": "water",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 2,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": true
+          }
+        },
+        {
+          "time": 3,
+          "options": {
+            "value": 0,
+            "impactId": "water",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 3,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": true
+          }
+        },
+        {
+          "time": 4,
+          "options": {
+            "value": 0,
+            "impactId": "water",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 4,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": true
+          }
+        },
+        {
+          "time": 5,
+          "options": {
+            "value": 0,
+            "impactId": "water",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 5,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": true
+          }
+        },
+        {
+          "time": 6,
+          "options": {
+            "value": 0,
+            "impactId": "water",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 6,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": true
+          }
+        },
+        {
+          "time": 7,
+          "options": {
+            "value": 0,
+            "impactId": "water",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 7,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": true
+          }
+        },
+        {
+          "time": 8,
+          "options": {
+            "value": 0,
+            "impactId": "water",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 8,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": true
+          }
+        },
+        {
+          "time": 9,
+          "options": {
+            "value": 0,
+            "impactId": "water",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 9,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": true
+          }
+        },
+        {
+          "time": 10,
+          "options": {
+            "value": 0,
+            "impactId": "water",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 10,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": true
+          }
+        },
+        {
+          "time": 11,
+          "options": {
+            "value": 0,
+            "impactId": "water",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 11,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": true
+          }
+        },
+        {
+          "time": 12,
+          "options": {
+            "value": 0,
+            "impactId": "water",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 12,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": true
+          }
+        },
+        {
+          "time": 13,
+          "options": {
+            "value": 0,
+            "impactId": "water",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 13,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": true
+          }
+        },
+        {
+          "time": 14,
+          "options": {
+            "value": 0,
+            "impactId": "water",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 14,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": true
+          }
+        }
+      ],
+      "sampleIds": [
+        "heartbeat-real",
+        "violin_c4",
+        "violin_e4"
+      ],
+      "originalRenderEngineSha256": "cb7f0a8ffbea4fbcc863d42711e986889948a893d4abf654d48a9d1a375e8750"
+    },
+    {
+      "id": "water",
+      "name": "qa-agua-calma",
+      "constant": 0,
+      "heart": false,
+      "music": true,
+      "events": [
+        {
+          "time": 0,
+          "options": {
+            "value": 0,
+            "impactId": "water",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 0,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 1,
+          "options": {
+            "value": 0,
+            "impactId": "water",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 1,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 2,
+          "options": {
+            "value": 0,
+            "impactId": "water",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 2,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 3,
+          "options": {
+            "value": 0,
+            "impactId": "water",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 3,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 4,
+          "options": {
+            "value": 0,
+            "impactId": "water",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 4,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 5,
+          "options": {
+            "value": 0,
+            "impactId": "water",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 5,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 6,
+          "options": {
+            "value": 0,
+            "impactId": "water",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 6,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 7,
+          "options": {
+            "value": 0,
+            "impactId": "water",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 7,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 8,
+          "options": {
+            "value": 0,
+            "impactId": "water",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 8,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 9,
+          "options": {
+            "value": 0,
+            "impactId": "water",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 9,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 10,
+          "options": {
+            "value": 0,
+            "impactId": "water",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 10,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 11,
+          "options": {
+            "value": 0,
+            "impactId": "water",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 11,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 12,
+          "options": {
+            "value": 0,
+            "impactId": "water",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 12,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 13,
+          "options": {
+            "value": 0,
+            "impactId": "water",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 13,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 14,
+          "options": {
+            "value": 0,
+            "impactId": "water",
+            "pitchMidi": 72,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 14,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        }
+      ],
+      "sampleIds": [
+        "violin_c4",
+        "violin_e4"
+      ],
+      "originalRenderEngineSha256": "cb7f0a8ffbea4fbcc863d42711e986889948a893d4abf654d48a9d1a375e8750"
+    },
+    {
+      "id": "water",
+      "name": "qa-agua-extremo-frio",
+      "constant": -2,
+      "heart": false,
+      "music": true,
+      "events": [
+        {
+          "time": 0,
+          "options": {
+            "value": -2,
+            "impactId": "water",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 0,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 0.46153846153846156,
+          "options": {
+            "value": -2,
+            "impactId": "water",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 1,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 0.9230769230769231,
+          "options": {
+            "value": -2,
+            "impactId": "water",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 2,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 1.3846153846153846,
+          "options": {
+            "value": -2,
+            "impactId": "water",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 3,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 1.8461538461538463,
+          "options": {
+            "value": -2,
+            "impactId": "water",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 4,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 2.307692307692308,
+          "options": {
+            "value": -2,
+            "impactId": "water",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 5,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 2.7692307692307696,
+          "options": {
+            "value": -2,
+            "impactId": "water",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 6,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 3.2307692307692313,
+          "options": {
+            "value": -2,
+            "impactId": "water",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 7,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 3.692307692307693,
+          "options": {
+            "value": -2,
+            "impactId": "water",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 8,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 4.153846153846154,
+          "options": {
+            "value": -2,
+            "impactId": "water",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 9,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 4.615384615384616,
+          "options": {
+            "value": -2,
+            "impactId": "water",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 10,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 5.0769230769230775,
+          "options": {
+            "value": -2,
+            "impactId": "water",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 11,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 5.538461538461539,
+          "options": {
+            "value": -2,
+            "impactId": "water",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 12,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 6.000000000000001,
+          "options": {
+            "value": -2,
+            "impactId": "water",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 13,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 6.461538461538463,
+          "options": {
+            "value": -2,
+            "impactId": "water",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 14,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 6.923076923076924,
+          "options": {
+            "value": -2,
+            "impactId": "water",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 15,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 7.384615384615386,
+          "options": {
+            "value": -2,
+            "impactId": "water",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 16,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 7.846153846153848,
+          "options": {
+            "value": -2,
+            "impactId": "water",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 17,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 8.307692307692308,
+          "options": {
+            "value": -2,
+            "impactId": "water",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 18,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 8.76923076923077,
+          "options": {
+            "value": -2,
+            "impactId": "water",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 19,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 9.230769230769232,
+          "options": {
+            "value": -2,
+            "impactId": "water",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 20,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 9.692307692307693,
+          "options": {
+            "value": -2,
+            "impactId": "water",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 21,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 10.153846153846155,
+          "options": {
+            "value": -2,
+            "impactId": "water",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 22,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 10.615384615384617,
+          "options": {
+            "value": -2,
+            "impactId": "water",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 23,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 11.076923076923078,
+          "options": {
+            "value": -2,
+            "impactId": "water",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 24,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 11.53846153846154,
+          "options": {
+            "value": -2,
+            "impactId": "water",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 25,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 12.000000000000002,
+          "options": {
+            "value": -2,
+            "impactId": "water",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 26,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 12.461538461538463,
+          "options": {
+            "value": -2,
+            "impactId": "water",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 27,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 12.923076923076925,
+          "options": {
+            "value": -2,
+            "impactId": "water",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 28,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 13.384615384615387,
+          "options": {
+            "value": -2,
+            "impactId": "water",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 29,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 13.846153846153848,
+          "options": {
+            "value": -2,
+            "impactId": "water",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 30,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 14.30769230769231,
+          "options": {
+            "value": -2,
+            "impactId": "water",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 31,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 14.769230769230772,
+          "options": {
+            "value": -2,
+            "impactId": "water",
+            "pitchMidi": 84,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 32,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        }
+      ],
+      "sampleIds": [
+        "violin_c4",
+        "violin_e4",
+        "violin_e5"
+      ],
+      "originalRenderEngineSha256": "cb7f0a8ffbea4fbcc863d42711e986889948a893d4abf654d48a9d1a375e8750"
+    },
+    {
+      "id": "water",
+      "name": "qa-agua-extremo-calor",
+      "constant": 2,
+      "heart": false,
+      "music": true,
+      "events": [
+        {
+          "time": 0,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 0,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 0.46153846153846156,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 1,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 0.9230769230769231,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 2,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 1.3846153846153846,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 3,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 1.8461538461538463,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 4,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 2.307692307692308,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 5,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 2.7692307692307696,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 6,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 3.2307692307692313,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 7,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 3.692307692307693,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 8,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 4.153846153846154,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 9,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 4.615384615384616,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 10,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 5.0769230769230775,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 11,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 5.538461538461539,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 12,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 6.000000000000001,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 13,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 6.461538461538463,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 14,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 6.923076923076924,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 15,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 7.384615384615386,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 16,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 7.846153846153848,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 17,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 8.307692307692308,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 18,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 8.76923076923077,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 19,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 9.230769230769232,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 20,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 9.692307692307693,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 21,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 10.153846153846155,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 22,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 10.615384615384617,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 23,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 11.076923076923078,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 24,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 11.53846153846154,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 25,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 12.000000000000002,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 26,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 12.461538461538463,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 27,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 12.923076923076925,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 28,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 13.384615384615387,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 29,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 13.846153846153848,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 30,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 14.30769230769231,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 31,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        },
+        {
+          "time": 14.769230769230772,
+          "options": {
+            "value": 2,
+            "impactId": "water",
+            "pitchMidi": 60,
+            "mode": "minor",
+            "bpm": 130,
+            "irregular": true,
+            "variety": 1,
+            "duration": 0.46153846153846156,
+            "sequenceIndex": 32,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": false
+          }
+        }
+      ],
+      "sampleIds": [
+        "violin_c4",
+        "violin_e4",
+        "violin_g3"
+      ],
+      "originalRenderEngineSha256": "cb7f0a8ffbea4fbcc863d42711e986889948a893d4abf654d48a9d1a375e8750"
+    },
+    {
+      "id": "water",
+      "name": "qa-agua-con-latido",
+      "constant": 0.25,
+      "heart": true,
+      "music": true,
+      "events": [
+        {
+          "time": 0,
+          "options": {
+            "value": 0.25,
+            "impactId": "water",
+            "pitchMidi": 71,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 0,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": true
+          }
+        },
+        {
+          "time": 1,
+          "options": {
+            "value": 0.25,
+            "impactId": "water",
+            "pitchMidi": 71,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 1,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": true
+          }
+        },
+        {
+          "time": 2,
+          "options": {
+            "value": 0.25,
+            "impactId": "water",
+            "pitchMidi": 71,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 2,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": true
+          }
+        },
+        {
+          "time": 3,
+          "options": {
+            "value": 0.25,
+            "impactId": "water",
+            "pitchMidi": 71,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 3,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": true
+          }
+        },
+        {
+          "time": 4,
+          "options": {
+            "value": 0.25,
+            "impactId": "water",
+            "pitchMidi": 71,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 4,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": true
+          }
+        },
+        {
+          "time": 5,
+          "options": {
+            "value": 0.25,
+            "impactId": "water",
+            "pitchMidi": 71,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 5,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": true
+          }
+        },
+        {
+          "time": 6,
+          "options": {
+            "value": 0.25,
+            "impactId": "water",
+            "pitchMidi": 71,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 6,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": true
+          }
+        },
+        {
+          "time": 7,
+          "options": {
+            "value": 0.25,
+            "impactId": "water",
+            "pitchMidi": 71,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 7,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": true
+          }
+        },
+        {
+          "time": 8,
+          "options": {
+            "value": 0.25,
+            "impactId": "water",
+            "pitchMidi": 71,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 8,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": true
+          }
+        },
+        {
+          "time": 9,
+          "options": {
+            "value": 0.25,
+            "impactId": "water",
+            "pitchMidi": 71,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 9,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": true
+          }
+        },
+        {
+          "time": 10,
+          "options": {
+            "value": 0.25,
+            "impactId": "water",
+            "pitchMidi": 71,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 10,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": true
+          }
+        },
+        {
+          "time": 11,
+          "options": {
+            "value": 0.25,
+            "impactId": "water",
+            "pitchMidi": 71,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 11,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": true
+          }
+        },
+        {
+          "time": 12,
+          "options": {
+            "value": 0.25,
+            "impactId": "water",
+            "pitchMidi": 71,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 12,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": true
+          }
+        },
+        {
+          "time": 13,
+          "options": {
+            "value": 0.25,
+            "impactId": "water",
+            "pitchMidi": 71,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 13,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": true
+          }
+        },
+        {
+          "time": 14,
+          "options": {
+            "value": 0.25,
+            "impactId": "water",
+            "pitchMidi": 71,
+            "mode": "major",
+            "bpm": 60,
+            "irregular": false,
+            "variety": 4,
+            "duration": 1,
+            "sequenceIndex": 14,
+            "strength": 0.62,
+            "pan": 0,
+            "heartbeat": true
+          }
+        }
+      ],
+      "sampleIds": [
+        "heartbeat-real",
+        "violin_c4",
+        "violin_e4"
+      ],
+      "originalRenderEngineSha256": "cb7f0a8ffbea4fbcc863d42711e986889948a893d4abf654d48a9d1a375e8750"
+    }
+  ]
+}

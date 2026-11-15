@@ -1,0 +1,370 @@
+{
+  "source": {
+    "filename": "The-Four-Seasons.mid",
+    "sha256": "83a526cd9d2c9344bae731c33b92c3249d2f7434f739340736f41de12ecad6dc",
+    "bytes": 31027,
+    "attribution": "Archivo MIDI proporcionado por usuario"
+  },
+  "originalCopy": {
+    "filename": "The-Four-Seasons.mid",
+    "sha256": "83a526cd9d2c9344bae731c33b92c3249d2f7434f739340736f41de12ecad6dc",
+    "byteIdentical": true
+  },
+  "score": {
+    "filename": "vivaldi-score.js",
+    "sha256": "ae5b67b26f3ad2324096d68bae5163c260435abfa27cba5d01ff6ec5af546c11",
+    "bytes": 722278,
+    "dataFile": "score.json",
+    "title": "The Four Seasons",
+    "titleSource": "filename (no sequence-title meta event)",
+    "format": 1,
+    "ppq": 384,
+    "durationBeats": 489.666666667,
+    "durationSeconds": 293.8,
+    "firstNoteSeconds": 2.075,
+    "lastNoteEndSeconds": 293.7125,
+    "trailingSilenceSeconds": 0.0875,
+    "metrics": {
+      "physicalTracks": 11,
+      "musicalTracks": 9,
+      "notes": 3242,
+      "sustainControllerEvents": 0,
+      "sustainExtendedNotes": 0,
+      "unmatchedNoteOffs": 0,
+      "unclosedNotes": 0,
+      "sysexEvents": 1,
+      "controllerCounts": {
+        "0": 9,
+        "7": 9,
+        "10": 9,
+        "11": 863,
+        "32": 9,
+        "91": 9,
+        "93": 9,
+        "121": 9
+      }
+    }
+  },
+  "tempos": [
+    {
+      "beat": 0.0,
+      "bpm": 100.0,
+      "time": 0.0
+    }
+  ],
+  "tracks": [
+    {
+      "id": "track-0",
+      "name": "Conductor / meta",
+      "channel": null,
+      "program": null,
+      "instrument": "meta",
+      "programs": [],
+      "instruments": [],
+      "channels": [],
+      "noteCount": 0,
+      "endBeat": 336.0
+    },
+    {
+      "id": "track-1",
+      "name": "PIZZ/STR.",
+      "channel": 0,
+      "program": null,
+      "instrument": "mixed",
+      "programs": [
+        45,
+        48
+      ],
+      "instruments": [
+        "pizzicato_strings",
+        "strings"
+      ],
+      "channels": [
+        0
+      ],
+      "noteCount": 444,
+      "endBeat": 336.0
+    },
+    {
+      "id": "track-2",
+      "name": "STRINGS",
+      "channel": 1,
+      "program": 48,
+      "instrument": "strings",
+      "programs": [
+        48
+      ],
+      "instruments": [
+        "strings"
+      ],
+      "channels": [
+        1
+      ],
+      "noteCount": 370,
+      "endBeat": 489.666666667
+    },
+    {
+      "id": "track-3",
+      "name": "PIZZ/STR.",
+      "channel": 2,
+      "program": null,
+      "instrument": "mixed",
+      "programs": [
+        45,
+        48
+      ],
+      "instruments": [
+        "pizzicato_strings",
+        "strings"
+      ],
+      "channels": [
+        2
+      ],
+      "noteCount": 436,
+      "endBeat": 336.0
+    },
+    {
+      "id": "track-4",
+      "name": "STRINGS",
+      "channel": 3,
+      "program": 48,
+      "instrument": "strings",
+      "programs": [
+        48
+      ],
+      "instruments": [
+        "strings"
+      ],
+      "channels": [
+        3
+      ],
+      "noteCount": 259,
+      "endBeat": 336.0
+    },
+    {
+      "id": "track-5",
+      "name": "PIZZ/STR.",
+      "channel": 4,
+      "program": null,
+      "instrument": "mixed",
+      "programs": [
+        45,
+        48
+      ],
+      "instruments": [
+        "pizzicato_strings",
+        "strings"
+      ],
+      "channels": [
+        4
+      ],
+      "noteCount": 454,
+      "endBeat": 489.666666667
+    },
+    {
+      "id": "track-6",
+      "name": "OCARINA",
+      "channel": 5,
+      "program": 79,
+      "instrument": "ocarina",
+      "programs": [
+        79
+      ],
+      "instruments": [
+        "ocarina"
+      ],
+      "channels": [
+        5
+      ],
+      "noteCount": 330,
+      "endBeat": 336.0
+    },
+    {
+      "id": "track-7",
+      "name": "OCARINA",
+      "channel": 6,
+      "program": 79,
+      "instrument": "ocarina",
+      "programs": [
+        79
+      ],
+      "instruments": [
+        "ocarina"
+      ],
+      "channels": [
+        6
+      ],
+      "noteCount": 216,
+      "endBeat": 336.0
+    },
+    {
+      "id": "track-8",
+      "name": "OBOE",
+      "channel": 7,
+      "program": 68,
+      "instrument": "oboe",
+      "programs": [
+        68
+      ],
+      "instruments": [
+        "oboe"
+      ],
+      "channels": [
+        7
+      ],
+      "noteCount": 55,
+      "endBeat": 489.666666667
+    },
+    {
+      "id": "track-9",
+      "name": "VIOLIN",
+      "channel": 8,
+      "program": 40,
+      "instrument": "violin",
+      "programs": [
+        40
+      ],
+      "instruments": [
+        "violin"
+      ],
+      "channels": [
+        8
+      ],
+      "noteCount": 678,
+      "endBeat": 336.0
+    },
+    {
+      "id": "track-10",
+      "name": "GS/RESET",
+      "channel": null,
+      "program": null,
+      "instrument": "meta",
+      "programs": [],
+      "instruments": [],
+      "channels": [],
+      "noteCount": 0,
+      "endBeat": 16.0
+    }
+  ],
+  "programChanges": [
+    {
+      "time": 0.63125,
+      "beat": 1.052083333,
+      "track": "track-1",
+      "channel": 0,
+      "program": 45,
+      "instrument": "pizzicato_strings"
+    },
+    {
+      "time": 0.6625,
+      "beat": 1.104166667,
+      "track": "track-2",
+      "channel": 1,
+      "program": 48,
+      "instrument": "strings"
+    },
+    {
+      "time": 0.69375,
+      "beat": 1.15625,
+      "track": "track-3",
+      "channel": 2,
+      "program": 45,
+      "instrument": "pizzicato_strings"
+    },
+    {
+      "time": 0.725,
+      "beat": 1.208333333,
+      "track": "track-4",
+      "channel": 3,
+      "program": 48,
+      "instrument": "strings"
+    },
+    {
+      "time": 0.75625,
+      "beat": 1.260416667,
+      "track": "track-5",
+      "channel": 4,
+      "program": 45,
+      "instrument": "pizzicato_strings"
+    },
+    {
+      "time": 0.7875,
+      "beat": 1.3125,
+      "track": "track-6",
+      "channel": 5,
+      "program": 79,
+      "instrument": "ocarina"
+    },
+    {
+      "time": 0.81875,
+      "beat": 1.364583333,
+      "track": "track-7",
+      "channel": 6,
+      "program": 79,
+      "instrument": "ocarina"
+    },
+    {
+      "time": 0.85,
+      "beat": 1.416666667,
+      "track": "track-8",
+      "channel": 7,
+      "program": 68,
+      "instrument": "oboe"
+    },
+    {
+      "time": 0.88125,
+      "beat": 1.46875,
+      "track": "track-9",
+      "channel": 8,
+      "program": 40,
+      "instrument": "violin"
+    },
+    {
+      "time": 9.0,
+      "beat": 15.0,
+      "track": "track-3",
+      "channel": 2,
+      "program": 48,
+      "instrument": "strings"
+    },
+    {
+      "time": 9.0,
+      "beat": 15.0,
+      "track": "track-4",
+      "channel": 3,
+      "program": 48,
+      "instrument": "strings"
+    },
+    {
+      "time": 9.0,
+      "beat": 15.0,
+      "track": "track-5",
+      "channel": 4,
+      "program": 48,
+      "instrument": "strings"
+    },
+    {
+      "time": 9.28125,
+      "beat": 15.46875,
+      "track": "track-2",
+      "channel": 1,
+      "program": 48,
+      "instrument": "strings"
+    },
+    {
+      "time": 9.2875,
+      "beat": 15.479166667,
+      "track": "track-1",
+      "channel": 0,
+      "program": 48,
+      "instrument": "strings"
+    }
+  ],
+  "movementIdentification": "No movement names/markers are declared in this file. Its filename alone does not establish that all four concertos are present.",
+  "processing": "SMF event extraction using prepare-vivaldi.py (Python standard library); original pitches, note-on velocities, programs and tempo-map timing retained. CC64 extends note durations if present. Controller/pitch-bend events remain explicit. No audio synthesized or inferred score sections added.",
+  "references": [
+    "https://midi.org/standard-midi-files",
+    "https://midi.org/midi-1-0-control-change-messages"
+  ],
+  "warnings": []
+}

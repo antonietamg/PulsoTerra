@@ -1,0 +1,145 @@
+{
+  "version": 6,
+  "engineSha256": "15f759381b036018aa00488eadf89395621c9b88ba0e9d171981ce8c911905b0",
+  "sampleBankVersion": 3,
+  "sampleCount": 50,
+  "preserveOriginalPreviewOrigins": true,
+  "originalArchiveSha256": "7c396a5c7f4abf74a3fefbf9a5f4e36e18c5230ea4c2127973d10a53782f0948",
+  "files": [
+    {
+      "path": "cc0-inputs.json",
+      "sha256": "86db2a1908114baddca623a54249ea8aa55c50f25b32a08263af3253d6be275c",
+      "bytes": 4711
+    },
+    {
+      "path": "CC0-instrument-license.txt",
+      "sha256": "36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673",
+      "bytes": 6555
+    },
+    {
+      "path": "compose_forest_muted.py",
+      "sha256": "d1f6cadfa34c98be1f6193afd9d0a8118080677715e4bed2a5fab29e6ca548fb",
+      "bytes": 4338
+    },
+    {
+      "path": "current-engine/atlas-audio.js",
+      "sha256": "15f759381b036018aa00488eadf89395621c9b88ba0e9d171981ce8c911905b0",
+      "bytes": 42926
+    },
+    {
+      "path": "current-engine/bank.json",
+      "sha256": "683da3e5e3f2beb5fc1bcd9a22bce6b34a6f230421237f96dd3bcecc2c7e6376",
+      "bytes": 9138
+    },
+    {
+      "path": "current-engine/prepare-sounds.py",
+      "sha256": "21601114825a60786e483690aec86dfcb62c865847cd1cd9f2a55434e2ec694e",
+      "bytes": 5873
+    },
+    {
+      "path": "current-engine/render-recipes.json",
+      "sha256": "263778688e79d5cc3272c31ecde014da10e0aaa0dabb2c986b4842882dd36046",
+      "bytes": 168790
+    },
+    {
+      "path": "current-engine/REPRODUCE.txt",
+      "sha256": "bb4bc32bd0dddb7b1a0fe0dc61ca1fa5478c5cfa1109501ea010d38d0a1b9fa1",
+      "bytes": 3338
+    },
+    {
+      "path": "current-engine/sonification-policy.js",
+      "sha256": "59cfb02cbbcad56575b5b249fa8fda54292a6f1d52c6a417af41f71ff1224647",
+      "bytes": 6391
+    },
+    {
+      "path": "fetch_cc0_sources.py",
+      "sha256": "872ddb539d6e7cbf1b55520674ffc9b7c2bff581fb18da33a28269ffd6b173d1",
+      "bytes": 1885
+    },
+    {
+      "path": "ice-source/CREDITOS.txt",
+      "sha256": "d60daccfa6693bdcd833e4966351eb3b1d8cedc71684840b3b7c9c2afa747b16",
+      "bytes": 674
+    },
+    {
+      "path": "ice-source/manifest.json",
+      "sha256": "372f7a38d2d9bbc07847e9fe827dc7ab493840a8a33a777170a78420ae20d714",
+      "bytes": 11839
+    },
+    {
+      "path": "ice-source/prepare_ice.py",
+      "sha256": "970f86062464ab7efe2743db376cfe82d8994e8821645cf191e27cb33822aace",
+      "bytes": 5390
+    },
+    {
+      "path": "ice-source/provenance.json",
+      "sha256": "cc46ff4eb35dae361e9a4d1087fb49a52baf9fbced81e622a155cdb8c3850fe0",
+      "bytes": 4932
+    },
+    {
+      "path": "ice-source/README.txt",
+      "sha256": "f16ecfa42c895274bf9af74930719628bb3a73b541db15d0664c0b8e75913d5e",
+      "bytes": 1764
+    },
+    {
+      "path": "ice-source/render-recipe.json",
+      "sha256": "004860985774f97d84d2252857aea5c79946fe06f8da6f4f10adc9dfeb17082e",
+      "bytes": 12960
+    },
+    {
+      "path": "ice-source/VCSL-LICENSE.txt",
+      "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+      "bytes": 7048
+    },
+    {
+      "path": "License-original.txt",
+      "sha256": "6f3a0e195c0a7e9ea045f8b9177aa1937d8ed9cbe5c5479938f44f7070cba732",
+      "bytes": 12224
+    },
+    {
+      "path": "Readme-original.txt",
+      "sha256": "43e895280544f71077b21ff1bf50e2560b98da1e3bcd702f1d6beb645f2ec056",
+      "bytes": 676
+    },
+    {
+      "path": "rebuild_samples.py",
+      "sha256": "981860ac812fa2856d5ccbf63ab1ac25b5a0438bdd31d3b49a484adab856e86c",
+      "bytes": 3910
+    },
+    {
+      "path": "retained-previews-engine/atlas-audio.js",
+      "sha256": "cb7f0a8ffbea4fbcc863d42711e986889948a893d4abf654d48a9d1a375e8750",
+      "bytes": 41210
+    },
+    {
+      "path": "retained-previews-engine/bank.json",
+      "sha256": "09d17ac312fd0c8b4f130f958312c3320db1008ac6c3e0b54a8df1e63d8fc1f4",
+      "bytes": 8416
+    },
+    {
+      "path": "retained-previews-engine/prepare-sounds.py",
+      "sha256": "b71e4551371bae30c9ff17587687af71f040a93c738c523bb5050011aa021727",
+      "bytes": 4994
+    },
+    {
+      "path": "retained-previews-engine/README.txt",
+      "sha256": "bbba25472fd7535f1c594e5a36b5611f7f7d2bc5feef0d811a7e52574a2f08c1",
+      "bytes": 347
+    },
+    {
+      "path": "retained-previews-engine/render-recipes.json",
+      "sha256": "87eecb8e16bdf9f9f6dd5b2fba2eb7df8c147da442566c9f6366b2f2090cf69c",
+      "bytes": 159761
+    },
+    {
+      "path": "retained-previews-engine/sonification-policy.js",
+      "sha256": "59cfb02cbbcad56575b5b249fa8fda54292a6f1d52c6a417af41f71ff1224647",
+      "bytes": 6391
+    },
+    {
+      "path": "SOURCE-AND-CHANGES.txt",
+      "sha256": "255f17b9aac635f119d3bdce971c5176e6db605610943109014f75c9631c8759",
+      "bytes": 8095
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+.openai/
+qa/
+sources/
+sound-research/
+__pycache__/
+*.pyc
+*.tar.gz
+*.zip
+!dist/assets/audio/*.zip
+PulsoTerra-sin-internet.html
+Escuchar-sonidos-PulsoTerra.html
+.env
+.env.*

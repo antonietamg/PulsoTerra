@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#020259">
+  <meta name="description" content="Seis mapas de NASA, una pieza MIDI de Vivaldi interactiva, dieciséis regiones y ocho paisajes sonoros de impactos.">
+  <title>PulsoTerra · Escucha el clima</title>
+  <script src="i18n-content.js"></script>
+  <script src="i18n-gallery.js"></script>
+  <script src="i18n-app.js"></script>
+  <script src="guide-content.js"></script>
+  <script src="accessibility-content.js"></script>
+  <script src="i18n.js"></script>
+  <script src="accessibility-preferences.js"></script>
+  <script src="font-preference.js"></script>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="alien-theme.css">
+  <link rel="stylesheet" href="accessibility.css">
+  <link rel="stylesheet" href="welcome-audio.css">
+</head>
+<body class="welcome-open">
+  <section id="welcomeScreen" class="welcome-screen" aria-labelledby="welcomeTitle">
+    <a class="welcome-audio-shortcut" href="#welcomeAudio">Audio instructions / Instrucciones de audio</a>
+    <div class="welcome-utilities">
+      <div class="welcome-options"><label class="language-switch"><span class="sr-only">Idioma</span><select data-language-select aria-label="Idioma"><option value="en">English</option><option value="es">Español</option></select></label><details class="accessibility-options"><summary>Accesibilidad</summary><div class="accessibility-menu"><button class="font-preference" type="button" data-font-preference aria-pressed="false" title="Usar OpenDyslexic"><span data-font-mark aria-hidden="true">Aa</span> Tipografía para dislexia</button><button type="button" data-high-contrast aria-pressed="false">Alto contraste</button><button type="button" data-large-text aria-pressed="false">Texto grande</button></div></details></div>
+    </div>
+    <div class="welcome-inner">
+      <h1 id="welcomeTitle" class="welcome-brand">Pulso<span>Terra</span></h1>
+      <p class="welcome-lead">El planeta tiene algo que contar.</p>
+      <section id="welcomeAudio" class="welcome-audio" aria-labelledby="welcomeAudioTitle" data-no-i18n tabindex="-1">
+        <h2 id="welcomeAudioTitle">NVDA audio guide / Guía de audio NVDA</h2>
+        <p><span lang="en">Explore without seeing the map.</span> <span lang="es">Explora sin ver el mapa.</span></p>
+        <div class="welcome-audio-buttons">
+          <button id="welcomeAudioEnglish" type="button" lang="en" aria-pressed="false">Play instructions in English</button>
+          <button id="welcomeAudioSpanish" type="button" lang="es" aria-pressed="false">Escuchar instrucciones en español</button>
+          <button id="welcomeAudioPause" type="button" aria-disabled="true">Pausar guía</button>
+          <button id="welcomeAudioStop" type="button" aria-disabled="true">Detener y reiniciar guía / Stop and reset guide</button>
+        </div>
+        <audio id="welcomeInstructionAudio" preload="none"></audio>
+        <p id="welcomeAudioStatus" role="status" aria-live="polite" aria-atomic="true"></p>
+        <details><summary>Read or download / Leer o descargar</summary>
+          <p><a href="assets/instructions/nvda-en.mp3" download lang="en">Download English audio</a> · <a href="assets/instructions/nvda-es.mp3" download lang="es">Descargar audio en español</a></p>
+          <div class="welcome-audio-transcripts" tabindex="0" role="region" aria-label="Transcripts / Transcripciones">
+            <section id="welcomeTranscriptEnglish" lang="en"><h3>English transcript</h3></section>
+            <section id="welcomeTranscriptSpanish" lang="es"><h3>Transcripción en español</h3></section>
+          </div>
+        </details>
+      </section>
+      <figure class="alien-host" aria-labelledby="alienCaption alienSpeech">
+        <div class="alien-speech" id="alienSpeech"><p>¿Cómo estará el planeta tierra? <strong>¡Escuchemos!</strong></p></div>
+        <video id="alienVideo" class="alien-video" autoplay loop muted playsinline preload="metadata" poster="assets/alien/poster.jpg" width="512" height="752" aria-label="Una alien DJ anima un disco con el planeta Tierra" disablepictureinpicture>
+          <source src="assets/alien/alien-app.mp4" type="video/mp4">
+          Tu navegador no puede reproducir la animación de la alien.
+        </video>
+        <figcaption id="alienCaption" class="sr-only">Una alien DJ nos invita a escuchar el planeta Tierra.</figcaption>
+        <button id="alienMotion" class="alien-motion" type="button" aria-label="Pausar animación" aria-pressed="true"><span id="alienMotionIcon" aria-hidden="true">Ⅱ</span><span id="alienMotionLabel">Pausar animación</span></button>
+      </figure>
+      <button id="welcomeStart" class="welcome-start" type="button" aria-controls="appSurface">Iniciar <span aria-hidden="true">→</span></button>
+      <noscript><p>Activa JavaScript para entrar y escuchar los mapas.</p></noscript>
+    </div>
+    <div class="welcome-credit"><span>Una experiencia de</span><img class="lab-signature" src="assets/branding/entramado-lab.jpg" alt="ENTRAMADO Lab · Multisystem Neuroscience and Complex Dynamics" width="88" height="78"></div>
+  </section>
+  <script src="welcome-audio-content.js"></script>
+  <script src="welcome-audio.js"></script>
+  <div id="appSurface" class="app-surface" inert aria-hidden="true">
+  <a class="skip-link" href="#accessibleExplorer" data-open-explorer>Saltar al explorador accesible</a>
+  <header class="site-header shell">
+    <a class="brand" href="#inicio" aria-label="PulsoTerra, inicio"><span class="brand-symbol" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></span><span>Pulso<span class="brand-light">Terra</span></span></a>
+    <div class="header-right"><span class="indicator"><span></span> Temperatura</span><label class="language-switch"><span class="sr-only">Idioma</span><select data-language-select aria-label="Idioma"><option value="en">English</option><option value="es">Español</option></select></label><details class="accessibility-options"><summary>Accesibilidad</summary><div class="accessibility-menu"><button class="font-preference" type="button" data-font-preference aria-pressed="false" title="Usar OpenDyslexic"><span data-font-mark aria-hidden="true">Aa</span> Tipografía para dislexia</button><button type="button" data-high-contrast aria-pressed="false">Alto contraste</button><button type="button" data-large-text aria-pressed="false">Texto grande</button></div></details><button class="text-button" id="aboutButton">Cómo funciona <span aria-hidden="true">↗</span></button></div>
+  </header>
+  <main id="inicio" class="shell">
+    <nav class="listening-shortcuts" aria-label="Accesos de escucha"><a href="#accessibleExplorer" data-open-explorer>Explorar sin mirar el mapa</a><a href="#playButton">Ir a reproducción</a><a href="#timelineTitle">Elegir año</a></nav>
+    <section class="intro" aria-labelledby="title">
+      <div class="hero-copy"><p class="eyebrow">LOS SIGNOS VITALES DE LA TIERRA</p><h1 id="title" tabindex="-1">Escucha el mapa<br>de la temperatura<span>.</span></h1><div class="intro-copy"><p>Una pieza MIDI de Vivaldi que cambia con la temperatura. Un latido independiente. <br>Explora seis fechas, dieciséis regiones y ocho paisajes sonoros de impactos.</p><p class="source-line"><span class="tiny-dot"></span> Imágenes reales · NASA GISTEMP · Sonificación RGB</p></div></div>
+    </section>
+    <a class="guide-jump" href="#listeningGuide">La alien te cuenta cómo lo hicimos ↓</a>
+    <div class="section-tabs" role="tablist" aria-label="Colecciones de mapas"><button role="tab" aria-selected="true" aria-controls="mapCollection" id="geographyTab" class="section-tab active"><span>01</span> Mapa geográfico <small>Vivaldi interactivo</small></button><button role="tab" aria-selected="false" aria-controls="mapCollection" id="impactsTab" class="section-tab"><span>02</span> Paisajes de impactos <small>8 interpretaciones temáticas</small></button></div>
+    <details id="accessibleExplorer" class="accessible-explorer">
+      <summary>Explorar con teclado o lector de pantalla</summary>
+      <p id="accessibleHelp">Aquí puedes elegir mapa o categoría, año y región, o fila y columna. Pulsa Consultar zona y después Escuchar esta zona. Tab cambia de control. Los selectores conservan tu elección durante la música. Cambiar fila o columna borra la región. Usa Pausar todo el audio para detenerla.</p>
+      <div class="accessible-fields">
+        <label for="accessibleSoundscape">Mapa o categoría<select id="accessibleSoundscape"></select></label>
+        <label for="accessibleYear">Año<select id="accessibleYear"></select></label>
+        <label for="accessiblePlace">Región o punto de referencia<select id="accessiblePlace"><option value="">Elegir una región</option></select></label>
+        <label for="accessibleRow">Fila<select id="accessibleRow"></select></label>
+        <label for="accessibleColumn">Columna<select id="accessibleColumn"></select></label>
+      </div>
+      <div class="accessible-actions"><button type="button" id="accessibleInspect">Consultar zona</button><button type="button" id="accessiblePrevious">Zona anterior</button><button type="button" id="accessibleNext">Zona siguiente</button></div>
+      <p id="accessibleSummary"></p>
+      <p id="accessibleReading" class="accessible-reading" data-no-i18n></p>
+      <div class="accessible-actions"><button type="button" id="accessibleRead">Anunciar lectura actual</button><button type="button" id="accessibleListen">Escuchar esta zona</button><button type="button" id="accessiblePause">Pausar todo el audio</button><button type="button" id="accessibleTour">Escuchar recorrido completo</button></div>
+      <label class="accessible-toggle"><input type="checkbox" id="accessibleAutoListen"> Escuchar al avanzar entre zonas</label>
+      <label class="accessible-toggle"><input type="checkbox" id="accessibleFollow"> Anunciar lecturas durante el recorrido, cada cuatro segundos como máximo</label>
+      <p class="accessible-note">La lectura indica una anomalía aproximada respecto a 1951–1980. Las zonas sin datos se identifican y permanecen en silencio. Puedes pausar la música para escuchar tu lector de pantalla.</p>
+    </details>
+    <div id="accessibleAnnouncement" class="sr-only" role="status" aria-live="polite" aria-atomic="true" data-no-i18n></div>
+    <section id="impactSection" class="impact-section" aria-label="Categorías de impacto" hidden><div class="impact-heading"><div><p class="eyebrow">INTERPRETACIONES MUSICALES</p><h2>Escucha un ámbito del cambio climático</h2></div><p>Estos mapas muestran temperatura. Sus sonidos evocan impactos; no cuantifican daños observados.</p></div><div class="impact-grid" id="impactGrid"></div><div class="impact-story">
+      <div class="impact-guide">
+        <video id="impactVideo" loop muted playsinline preload="none" poster="assets/alien/guide-poster.jpg" width="512" height="752" aria-hidden="true" disablepictureinpicture><source src="assets/alien/guide.mp4" type="video/mp4"></video>
+        <button id="impactMotion" class="impact-motion" type="button" aria-controls="impactVideo" aria-pressed="false" aria-label="Animar guía" title="Animar guía"><span aria-hidden="true" data-motion-icon>▶</span></button>
+      </div>
+      <div class="impact-bubble"><p id="impactWhy" aria-live="off"></p></div>
+    </div><details class="impact-more"><summary>Más sobre estos sonidos</summary><p class="impact-description" id="impactDescription"></p></details><div class="sound-audition"><div><strong id="previewTitle">Preescucha · Agua</strong><p>Ejemplo del mismo motor: de calma a tensión con anomalías de prueba. Biodiversidad muestra variedad; Economía conserva su marcha.</p><a href="sonidos.html" target="_blank" rel="noopener">Escuchar las ocho categorías y ver sus fuentes ↗</a></div><audio id="impactPreview" controls preload="none" aria-label="Preescucha de la categoría seleccionada"></audio></div></section>
+    <div class="workspace" id="mapCollection" role="tabpanel" aria-labelledby="geographyTab">
+      <section class="visual-panel" aria-label="Mapa de anomalías de temperatura">
+        <div class="map-topbar"><div><span class="map-kicker">ANOMALÍA DE TEMPERATURA</span><span class="map-subtitle">Respecto al promedio de 1951–1980</span></div><div class="map-year" id="mapYear">Cargando…</div></div>
+        <div class="map-stage" id="mapStage" tabindex="0" role="group" aria-describedby="accessibleHelp" aria-label="Mapa interactivo. Inicia la música y mueve el cursor sin presionar. En pantalla táctil toca o arrastra. Usa las flechas para explorar y Enter para escuchar.">
+          <img id="mapImage" alt="Mapa NASA de anomalías de temperatura" draggable="false">
+          <canvas id="mapOverlay" aria-hidden="true"></canvas>
+          <div class="loading" id="loading">Preparando los mapas de NASA…</div>
+          <span class="map-hint" id="mapHint"><span aria-hidden="true">⌖</span> Inicia la música y mueve el cursor sin presionar</span>
+          <span class="live-badge" id="liveBadge" hidden><span></span> SONANDO</span>
+        </div>
+        <div class="map-bottom"><div><span class="micro-label">ZONA EXPLORADA</span><p id="cellReadout">Selecciona una zona del mapa</p></div><div class="map-caption"><span class="micro-label">LECTURA DE LA IMAGEN</span><p>5 niveles de color <span>·</span> escala sonora fija</p></div></div>
+        <div class="legend" id="legend" aria-label="Leyenda sonora de anomalías"></div>
+        <div class="legend-foot"><span>Frío → más agudo</span><span>Calor → más grave</span></div>
+      </section>
+      <aside class="control-panel" aria-label="Controles de sonificación">
+        <div class="control-heading"><span class="eyebrow">TU FORMA DE ESCUCHAR</span><span class="step-mark">01 / 02</span></div>
+        <div class="region-picker" id="regionPicker"><label for="regionSelect">Explora una región</label><select id="regionSelect"><option value="auto">Seleccionar sobre el mapa</option></select></div>
+        <div class="mode-switch" role="group" aria-label="Modo de sonificación">
+          <button id="exploreMode" class="mode-button active" aria-pressed="true"><span class="mode-icon" aria-hidden="true">▥</span><span><strong>Explorar el mapa</strong><small>Una pieza que responde al mapa</small></span><span class="radio-dot"></span></button>
+          <button id="compareMode" class="mode-button" aria-pressed="false"><span class="mode-icon" aria-hidden="true">◷</span><span><strong>Comparar fechas</strong><small>La misma pieza entre fechas</small></span><span class="radio-dot"></span></button>
+        </div>
+        <p class="mode-description" id="modeDescription">Con la música en marcha, mueve el cursor sin presionar. En pausa sólo previsualiza; en pantalla táctil puedes tocar o arrastrar.</p>
+        <div id="vivaldiComparison" class="vivaldi-comparison" role="group" aria-label="Comparar Vivaldi">
+          <span class="micro-label">ESCUCHA Y COMPARA</span>
+          <div class="vivaldi-ab"><button type="button" id="vivaldiMap" aria-pressed="true">Según el mapa</button><button type="button" id="vivaldiOriginal" aria-pressed="false">Escuchar original</button></div>
+          <p id="vivaldiComparisonNote">La temperatura transforma la misma pieza. Compara con el original sin reiniciarla.</p>
+        </div>
+        <div class="play-row"><button id="playButton" class="primary-button" disabled><span id="playIcon" aria-hidden="true">▶</span><span id="playLabel">Escuchar mapa</span></button><button id="resetButton" class="icon-button" aria-label="Reiniciar reproducción" title="Reiniciar">↺</button></div>
+        <div class="progress-track" aria-hidden="true"><span id="progressBar"></span></div>
+        <div class="play-status"><span id="status" aria-live="off">Preparando imágenes</span><span id="timeReadout">00:00 / 00:18</span></div>
+        <div class="pulse-panel"><span class="heart-symbol" id="heartSymbol" aria-hidden="true">♥</span><div><span class="micro-label">LATIDO EXPRESIVO</span><p><strong id="bpmReadout">60</strong><span> BPM</span><small id="pulseReadout">Pulso estable</small></p></div><label class="heartbeat-toggle"><input type="checkbox" id="heartbeat" checked><span>Latidos</span></label></div>
+        <div class="musical-readout"><span id="valueReadout">ΔT ≈ — °C</span><span id="pitchReadout">—</span><span id="scaleReadout">Modo mayor</span></div>
+        <p id="musicReadout" class="instrument-origin"></p>
+        <div class="detail-row"><label for="detail">Detalle del recorrido</label><select id="detail"><option value="8">Breve · 8 columnas</option><option value="12" selected>Medio · 12 columnas</option><option value="16">Amplio · 16 columnas</option></select></div>
+        <div class="slider-block"><label for="volume">Volumen <span id="volumeOutput" aria-live="off" style="font-size:10px;color:var(--app-muted)">45 %</span></label><input id="volume" type="range" min="0" max="100" step="1" value="45"></div>
+        <div class="slider-block heart-volume"><label for="heartbeatVolume">Presencia del latido <span id="heartbeatVolumeOutput" aria-live="off" style="font-size:10px;color:var(--app-muted)">80 %</span></label><input id="heartbeatVolume" type="range" min="0" max="100" step="1" value="80"></div><details class="heart-audition"><summary>Escuchar el latido solo</summary><p>Grabación humana tratada para dar presencia. El mapa modifica su ritmo de forma expresiva.</p><audio id="heartPreview" controls preload="none" aria-label="Grabación del latido humano a 60 BPM"></audio></details>
+        <div class="instrument-row"><span>Timbre</span><span id="instrumentReadout" aria-live="off" style="font-size:11px;color:var(--alien-violet);font-weight:600;text-align:right">MIDI de Vivaldi</span></div><p class="instrument-origin" id="instrumentOrigin">Archivo MIDI del proyecto interpretado con grabaciones instrumentales.</p><button id="regionLegendButton" class="text-button">Ver las 16 regiones ↗</button>
+        <button id="exportButton" class="secondary-button" disabled>↓ Descargar recorrido en WAV</button>
+        <p id="geographicExportNote" class="instrument-origin">El WAV guarda los primeros 30 s del modo elegido: original sin latido o según el mapa. La pieza completa se escucha en la app.</p>
+        <div class="distribution"><div class="distribution-title"><h2>Los colores de esta imagen</h2><span id="pixelCount">—</span></div><div class="distribution-bar" id="distributionBar" aria-label="Distribución de categorías de color"></div><p id="distributionText">La distribución aparecerá al cargar el mapa.</p></div>
+      </aside>
+    </div>
+    <section class="timeline-section" aria-labelledby="timelineTitle"><div class="section-row"><div><p class="eyebrow">ELIGE UNA FECHA</p><h2 id="timelineTitle" tabindex="-1">Seis fechas, una misma escala.</h2></div><p id="timelineHelp">Selecciona una imagen para explorarla.</p></div><div class="timeline" id="timeline"></div></section>
+    <section class="listening-guide" id="listeningGuide" aria-labelledby="guideTitle">
+      <div class="guide-host">
+        <video id="guideVideo" loop muted playsinline preload="none" poster="assets/alien/guide-poster.jpg" width="512" height="752" aria-label="La alien acompaña la explicación con gestos." disablepictureinpicture><source src="assets/alien/guide.mp4" type="video/mp4"></video>
+        <button type="button" class="guide-motion" id="guideMotion" aria-controls="guideVideo" aria-pressed="false">Animar guía</button>
+      </div>
+      <div class="guide-copy">
+        <p class="eyebrow">Tu guía de escucha</p><h2 id="guideTitle">De los colores a la música</h2>
+        <p class="guide-lead">Elige un paso y te cuento cómo transformamos el mapa.</p>
+        <div id="guideTopics" class="guide-topics" role="group" aria-label="Pasos de la guía"></div>
+        <article id="guideArticle" aria-live="off" aria-labelledby="guideTopicTitle"><h3 id="guideTopicTitle" tabindex="-1" aria-describedby="guideNarrative"></h3><p id="guideNarrative"></p></article>
+        <p class="guide-note">Lecturas aproximadas de temperatura local; no son mediciones de los impactos ni equivalen al calentamiento global.</p>
+        <div class="guide-actions"><button class="text-button" id="sourcesButton">Ver fuentes y método <span aria-hidden="true">↗</span></button><a class="text-button" href="#mapCollection">Volver al mapa ↑</a></div>
+      </div>
+    </section>
+    <p class="error-message" id="errorMessage" role="alert" hidden></p>
+  </main>
+  <footer class="shell site-footer"><span>PulsoTerra <span class="footer-separator">/</span> Prototipo de sonificación climática</span><span>Datos: NASA / GISS / SVS <span class="footer-separator">·</span> <a href="sonidos.html">Grabaciones, preescuchas y créditos</a></span></footer>
+  <dialog id="infoDialog" aria-labelledby="dialogTitle"><div class="dialog-header"><p class="eyebrow">DE LA IMAGEN AL SONIDO</p><button id="closeDialog" class="icon-button" aria-label="Cerrar explicación">×</button></div><h2 id="dialogTitle">Cómo escuchar estos mapas</h2><div id="dialogContent"></div><p class="dialog-credit">MIDI utilizado: <a href="assets/music/The-Four-Seasons.mid" download>descargar The-Four-Seasons.mid</a> · aproximadamente 293,8 s y 3.242 notas. El nombre del archivo no confirma que contenga los cuatro conciertos completos.</p></dialog>
+  </div>
+  <script src="assets/manifest.js"></script><script src="assets/extra-frames.js"></script><script src="assets/geocountries.js"></script><script src="pixels.js"></script><script src="anomaly-analysis.js"></script><script src="sonification-policy.js"></script><script src="geography.js"></script><script src="atlas-content.js"></script><script src="sound-bank.js"></script><script src="atlas-audio.js"></script><script src="vivaldi-score.js"></script><script src="vivaldi-player.js"></script><script src="atlas-app.js"></script>
+  <script src="alien-host.js"></script>
+  <script src="guide.js"></script>
+  <script src="accessible-explorer.js"></script>
+</body>
+</html>

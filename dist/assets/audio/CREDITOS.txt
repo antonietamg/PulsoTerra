@@ -1,0 +1,380 @@
+PULSOTERRA — CRÉDITOS Y LICENCIAS DEL BANCO ACTIVO
+
+50 muestras y diez preescuchas. Deshielo (ice) sustituye a Alimentos en la séptima posición. Las otras siete categorías conservan sus fuentes y sonidos; no se importan las modificaciones regionales de Sun.
+
+CONDICIONES POR COMPONENTE
+CC0: instrumentos VSCO/VCSL, voces, fauna, gotas registradas en plato e hielo Foley grabado en estudio.
+CC BY 3.0: latido Benboncan / Natural Philo; conservar crédito, fuente, licencia y declaración de cambios.
+Artistic License Version 2.0beta4, October 2000: muestras Bukvic y derivado de Bosques; avisos y fuente original completos en assets/audio/sordino-source.zip. No es Artistic 2.0 estable ni existe una licencia CC0 global.
+
+DESHIELO: PROCEDENCIA Y LÍMITES
+Gotas e hielo: Joseph SARDIN / LaSonotheque; glockenspiel: Versilian Studios LLC / Sam Gossner, VCSL.
+Todo el material nuevo es CC0 1.0 Universal. Las fuentes exactas, hashes y procesamiento se detallan por muestra a continuación.
+No son grabaciones de glaciar. La tensión en el frío extremo no afirma que el frío funda hielo.
+MP3 Deshielo: copia exacta de Sun, sin transcodificar; SHA-256 8e11bd7b6df22fbe1c5a2852bc444fda0ab7bbf447b3b42d7cb5aa75ebbb6338.
+
+CORRESPONDENCIA DE LOS 50 ARCHIVOS ACTIVOS
+
+violin_g3 — assets/audio/instruments/violin_g3.mp3
+Crédito: Sam Gossner y Simon Dalzell (grabación); Elan Hickler / Soundemote (corte de muestras); Versilian Studios / VSCO 2 CE
+Fuente: https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/Strings/Solo%20Violin/Arco%20Vib/LLVln_ArcoVib_G3_p.wav
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Conversión a mono PCM16 44.1 kHz y normalización; versión MP3 para la app. La reproducción musical puede aplicar envolventes, transposición por remuestreo y mezcla. Cuerdas ordinarias sin sordina.
+
+violin_c4 — assets/audio/instruments/violin_c4.mp3
+Crédito: Sam Gossner y Simon Dalzell (grabación); Elan Hickler / Soundemote (corte de muestras); Versilian Studios / VSCO 2 CE
+Fuente: https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/Strings/Solo%20Violin/Arco%20Vib/LLVln_ArcoVib_C4_p.wav
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Conversión a mono PCM16 44.1 kHz y normalización; versión MP3 para la app. La reproducción musical puede aplicar envolventes, transposición por remuestreo y mezcla. Cuerdas ordinarias sin sordina.
+
+violin_e4 — assets/audio/instruments/violin_e4.mp3
+Crédito: Sam Gossner y Simon Dalzell (grabación); Elan Hickler / Soundemote (corte de muestras); Versilian Studios / VSCO 2 CE
+Fuente: https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/Strings/Solo%20Violin/Arco%20Vib/LLVln_ArcoVib_E4_p.wav
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Conversión a mono PCM16 44.1 kHz y normalización; versión MP3 para la app. La reproducción musical puede aplicar envolventes, transposición por remuestreo y mezcla. Cuerdas ordinarias sin sordina.
+
+strings_g3 — assets/audio/instruments/strings_g3.mp3
+Crédito: Sam Gossner y Simon Dalzell (grabación); Elan Hickler / Soundemote (corte de muestras); Versilian Studios / VSCO 2 CE
+Fuente: https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/Strings/Violin%20Section/susVib/VlnEns_susVib_G2_v1.wav
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Conversión a mono PCM16 44.1 kHz y normalización; versión MP3 para la app. La reproducción musical puede aplicar envolventes, transposición por remuestreo y mezcla. Cuerdas ordinarias sin sordina.
+
+strings_a3 — assets/audio/instruments/strings_a3.mp3
+Crédito: Sam Gossner y Simon Dalzell (grabación); Elan Hickler / Soundemote (corte de muestras); Versilian Studios / VSCO 2 CE
+Fuente: https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/Strings/Violin%20Section/susVib/VlnEns_susVib_A2_v1.wav
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Conversión a mono PCM16 44.1 kHz y normalización; versión MP3 para la app. La reproducción musical puede aplicar envolventes, transposición por remuestreo y mezcla. Cuerdas ordinarias sin sordina.
+
+strings_d4 — assets/audio/instruments/strings_d4.mp3
+Crédito: Sam Gossner y Simon Dalzell (grabación); Elan Hickler / Soundemote (corte de muestras); Versilian Studios / VSCO 2 CE
+Fuente: https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/Strings/Violin%20Section/susVib/VlnEns_susVib_D3_v1.wav
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Conversión a mono PCM16 44.1 kHz y normalización; versión MP3 para la app. La reproducción musical puede aplicar envolventes, transposición por remuestreo y mezcla. Cuerdas ordinarias sin sordina.
+
+cello_c2 — assets/audio/instruments/cello_c2.mp3
+Crédito: Sam Gossner y Simon Dalzell (grabación); Elan Hickler / Soundemote (corte de muestras); Versilian Studios / VSCO 2 CE
+Fuente: https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/Strings/Cello%20Section/susvib/susvib_C1_v1_1.wav
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Conversión a mono PCM16 44.1 kHz y normalización; versión MP3 para la app. La reproducción musical puede aplicar envolventes, transposición por remuestreo y mezcla. Cuerdas ordinarias sin sordina.
+
+cello_e2 — assets/audio/instruments/cello_e2.mp3
+Crédito: Sam Gossner y Simon Dalzell (grabación); Elan Hickler / Soundemote (corte de muestras); Versilian Studios / VSCO 2 CE
+Fuente: https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/Strings/Cello%20Section/susvib/susvib_E1_v1_1.wav
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Conversión a mono PCM16 44.1 kHz y normalización; versión MP3 para la app. La reproducción musical puede aplicar envolventes, transposición por remuestreo y mezcla. Cuerdas ordinarias sin sordina.
+
+cello_g2 — assets/audio/instruments/cello_g2.mp3
+Crédito: Sam Gossner y Simon Dalzell (grabación); Elan Hickler / Soundemote (corte de muestras); Versilian Studios / VSCO 2 CE
+Fuente: https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/Strings/Cello%20Section/susvib/susvib_G1_v1_1.wav
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Conversión a mono PCM16 44.1 kHz y normalización; versión MP3 para la app. La reproducción musical puede aplicar envolventes, transposición por remuestreo y mezcla. Cuerdas ordinarias sin sordina.
+
+cello_c4 — assets/audio/instruments/cello_c4.mp3
+Crédito: Sam Gossner y Simon Dalzell (grabación); Elan Hickler / Soundemote (corte de muestras); Versilian Studios / VSCO 2 CE
+Fuente: https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/Strings/Cello%20Section/susvib/susvib_C3_v1_1.wav
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Conversión a mono PCM16 44.1 kHz y normalización; versión MP3 para la app. La reproducción musical puede aplicar envolventes, transposición por remuestreo y mezcla. Cuerdas ordinarias sin sordina.
+
+flute_c4 — assets/audio/instruments/flute_c4.mp3
+Crédito: Sam Gossner y Simon Dalzell (grabación); Elan Hickler / Soundemote (corte de muestras); Versilian Studios / VSCO 2 CE
+Fuente: https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/Woodwinds/Flute/susvib/LDFlute_susvib_C3_v1_1.wav
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Conversión a mono PCM16 44.1 kHz y normalización; versión MP3 para la app. La reproducción musical puede aplicar envolventes, transposición por remuestreo y mezcla. 
+
+flute_e4 — assets/audio/instruments/flute_e4.mp3
+Crédito: Sam Gossner y Simon Dalzell (grabación); Elan Hickler / Soundemote (corte de muestras); Versilian Studios / VSCO 2 CE
+Fuente: https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/Woodwinds/Flute/susvib/LDFlute_susvib_E3_v1_1.wav
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Conversión a mono PCM16 44.1 kHz y normalización; versión MP3 para la app. La reproducción musical puede aplicar envolventes, transposición por remuestreo y mezcla. 
+
+flute_a4 — assets/audio/instruments/flute_a4.mp3
+Crédito: Sam Gossner y Simon Dalzell (grabación); Elan Hickler / Soundemote (corte de muestras); Versilian Studios / VSCO 2 CE
+Fuente: https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/Woodwinds/Flute/susvib/LDFlute_susvib_A3_v1_1.wav
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Conversión a mono PCM16 44.1 kHz y normalización; versión MP3 para la app. La reproducción musical puede aplicar envolventes, transposición por remuestreo y mezcla. 
+
+clarinet_d3 — assets/audio/instruments/clarinet_d3.mp3
+Crédito: Sam Gossner y Simon Dalzell (grabación); Elan Hickler / Soundemote (corte de muestras); Versilian Studios / VSCO 2 CE
+Fuente: https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/Woodwinds/Clarinet/susLong/DCClar_susLong_D2_v1_rr1_sum.wav
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Conversión a mono PCM16 44.1 kHz y normalización; versión MP3 para la app. La reproducción musical puede aplicar envolventes, transposición por remuestreo y mezcla. 
+
+clarinet_f3 — assets/audio/instruments/clarinet_f3.mp3
+Crédito: Sam Gossner y Simon Dalzell (grabación); Elan Hickler / Soundemote (corte de muestras); Versilian Studios / VSCO 2 CE
+Fuente: https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/Woodwinds/Clarinet/susLong/DCClar_susLong_F2_v1_rr1_sum.wav
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Conversión a mono PCM16 44.1 kHz y normalización; versión MP3 para la app. La reproducción musical puede aplicar envolventes, transposición por remuestreo y mezcla. 
+
+clarinet_bb3 — assets/audio/instruments/clarinet_bb3.mp3
+Crédito: Sam Gossner y Simon Dalzell (grabación); Elan Hickler / Soundemote (corte de muestras); Versilian Studios / VSCO 2 CE
+Fuente: https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/Woodwinds/Clarinet/susLong/DCClar_susLong_A%232_v1_rr1_sum.wav
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Conversión a mono PCM16 44.1 kHz y normalización; versión MP3 para la app. La reproducción musical puede aplicar envolventes, transposición por remuestreo y mezcla. 
+
+harp_c3 — assets/audio/instruments/harp_c3.mp3
+Crédito: Sam Gossner y Simon Dalzell (grabación); Elan Hickler / Soundemote (corte de muestras); Versilian Studios / VSCO 2 CE
+Fuente: https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/Strings/Harp/KSHarp_C3_mf.wav
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Conversión a mono PCM16 44.1 kHz y normalización; versión MP3 para la app. La reproducción musical puede aplicar envolventes, transposición por remuestreo y mezcla. 
+
+harp_e3 — assets/audio/instruments/harp_e3.mp3
+Crédito: Sam Gossner y Simon Dalzell (grabación); Elan Hickler / Soundemote (corte de muestras); Versilian Studios / VSCO 2 CE
+Fuente: https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/Strings/Harp/KSHarp_E3_mf.wav
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Conversión a mono PCM16 44.1 kHz y normalización; versión MP3 para la app. La reproducción musical puede aplicar envolventes, transposición por remuestreo y mezcla. 
+
+harp_g3 — assets/audio/instruments/harp_g3.mp3
+Crédito: Sam Gossner y Simon Dalzell (grabación); Elan Hickler / Soundemote (corte de muestras); Versilian Studios / VSCO 2 CE
+Fuente: https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/Strings/Harp/KSHarp_G3_mf.wav
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Conversión a mono PCM16 44.1 kHz y normalización; versión MP3 para la app. La reproducción musical puede aplicar envolventes, transposición por remuestreo y mezcla. 
+
+horn_c4 — assets/audio/instruments/horn_c4.mp3
+Crédito: Sam Gossner y Simon Dalzell (grabación); Elan Hickler / Soundemote (corte de muestras); Versilian Studios / VSCO 2 CE
+Fuente: https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/Brass/F%20Horn/sus/MOHorn_sus_C3_v1_1.wav
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Conversión a mono PCM16 44.1 kHz y normalización; versión MP3 para la app. La reproducción musical puede aplicar envolventes, transposición por remuestreo y mezcla. 
+
+horn_f3 — assets/audio/instruments/horn_f3.mp3
+Crédito: Sam Gossner y Simon Dalzell (grabación); Elan Hickler / Soundemote (corte de muestras); Versilian Studios / VSCO 2 CE
+Fuente: https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/Brass/F%20Horn/sus/MOHorn_sus_F2_v1_1.wav
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Conversión a mono PCM16 44.1 kHz y normalización; versión MP3 para la app. La reproducción musical puede aplicar envolventes, transposición por remuestreo y mezcla. 
+
+trombone_c4 — assets/audio/instruments/trombone_c4.mp3
+Crédito: Sam Gossner y Simon Dalzell (grabación); Elan Hickler / Soundemote (corte de muestras); Versilian Studios / VSCO 2 CE
+Fuente: https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/Brass/Tenor%20Trombone/sus/tenortbn_sus_C3_v1_1.wav
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Conversión a mono PCM16 44.1 kHz y normalización; versión MP3 para la app. La reproducción musical puede aplicar envolventes, transposición por remuestreo y mezcla. 
+
+choir-o — assets/audio/instruments/choir-o.mp3
+Crédito: Shane Vincent (ShangusBurger); GameSoundCon 2024 Walla session participants
+Fuente: https://freesound.org/people/ShangusBurger/sounds/764230/
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Recorte de 1.3 s a un fragmento de 6.0 s; mono PCM16 44.1 kHz, fundidos de entrada 25 ms y salida 100 ms, pico aproximado -3 dBFS; conversión a MP3. Las preescuchas conservan afinación y velocidad; el coro se prolonga mediante fundidos entre fragmentos de la misma fuente.
+
+animal-frog — assets/audio/instruments/animal-frog.mp3
+Crédito: Joseph SARDIN
+Fuente: https://lasonotheque.org/une-grenouille-s0819.html
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Recorte de 4.6 s a un fragmento de 6.0 s; mono PCM16 44.1 kHz, fundidos de entrada 25 ms y salida 100 ms, pico aproximado -3 dBFS; conversión a MP3. Las preescuchas conservan afinación y velocidad; el coro se prolonga mediante fundidos entre fragmentos de la misma fuente.
+
+animal-insect — assets/audio/instruments/animal-insect.mp3
+Crédito: Joseph SARDIN
+Fuente: https://lasonotheque.org/insecte-chanteur-2-s3090.html
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Recorte de 12.1 s a un fragmento de 6.0 s; mono PCM16 44.1 kHz, fundidos de entrada 25 ms y salida 100 ms, pico aproximado -3 dBFS; conversión a MP3. Las preescuchas conservan afinación y velocidad; el coro se prolonga mediante fundidos entre fragmentos de la misma fuente.
+
+animal-owl — assets/audio/instruments/animal-owl.mp3
+Crédito: Joseph SARDIN
+Fuente: https://lasonotheque.org/chouette-hulotte-2-s1764.html
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Recorte de 0.2 s a un fragmento de 6.0 s; mono PCM16 44.1 kHz, fundidos de entrada 25 ms y salida 100 ms, pico aproximado -3 dBFS; conversión a MP3. Las preescuchas conservan afinación y velocidad; el coro se prolonga mediante fundidos entre fragmentos de la misma fuente.
+
+animal-blackbird — assets/audio/instruments/animal-blackbird.mp3
+Crédito: Le tiroir du fond
+Fuente: https://lasonotheque.org/merle-noir-23-s3496.html
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Recorte de 0.0 s a un fragmento de 3.6198 s; mono PCM16 44.1 kHz, fundidos de entrada 25 ms y salida 100 ms, pico aproximado -3 dBFS; conversión a MP3. Las preescuchas conservan afinación y velocidad; el coro se prolonga mediante fundidos entre fragmentos de la misma fuente.
+
+heartbeat-real — assets/audio/instruments/heartbeat-real.mp3
+Crédito: Benboncan (grabación original); Natural Philo (versión procesada en Wikimedia Commons)
+Fuente: https://commons.wikimedia.org/wiki/File:Human_heart_beating_at_61_bpm_(Cc-by-3.0).ogg
+Licencia: CC BY 3.0 — https://creativecommons.org/licenses/by/3.0/
+Cambios: Benboncan: grabación original; Natural Philo: versión procesada de Wikimedia Commons. Edición para PulsoTerra: recorte de ciclo de 0.94 a 1.92 s, fundidos, filtro pasaaltos a 40 Hz, EQ +5 dB a 220 Hz y +3 dB a 650 Hz, compresión 2.5:1 y normalización; MP3. En preescucha, repetición a 60 BPM. No se añadieron osciladores.
+
+snare-1 — assets/audio/instruments/snare-1.mp3
+Crédito: Versilian Studios LLC / Sam Gossner (VCSL)
+Fuente: https://github.com/sgossner/VCSL/blob/master/Membranophones/Struck%20Membranophones/Legacy%20Snares/OldSnare/snare_f1.wav
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Cortes y fundidos; conversión a MP3 para la app. Las preescuchas secuencian estos golpes reales en una marcha original de 4/4; no contienen una grabación de una obra ajena.
+
+snare-2 — assets/audio/instruments/snare-2.mp3
+Crédito: Versilian Studios LLC / Sam Gossner (VCSL)
+Fuente: https://github.com/sgossner/VCSL/blob/master/Membranophones/Struck%20Membranophones/Legacy%20Snares/OldSnare/snare_f2.wav
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Cortes y fundidos; conversión a MP3 para la app. Las preescuchas secuencian estos golpes reales en una marcha original de 4/4; no contienen una grabación de una obra ajena.
+
+bassdrum — assets/audio/instruments/bassdrum.mp3
+Crédito: Versilian Studios LLC / Sam Gossner (VCSL)
+Fuente: https://github.com/sgossner/VCSL/blob/master/Membranophones/Struck%20Membranophones/Bass%20Drum%202/bassdrum_hit_ff.wav
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Cortes y fundidos; conversión a MP3 para la app. Las preescuchas secuencian estos golpes reales en una marcha original de 4/4; no contienen una grabación de una obra ajena.
+
+anvil — assets/audio/instruments/anvil.mp3
+Crédito: Versilian Studios LLC / Sam Gossner (VCSL)
+Fuente: https://github.com/sgossner/VCSL/blob/master/Idiophones/Struck%20Idiophones/Anvil/Anvil_Hit1_v3_rr1_Mid.wav
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Cortes y fundidos; conversión a MP3 para la app. Las preescuchas secuencian estos golpes reales en una marcha original de 4/4; no contienen una grabación de una obra ajena.
+
+brakedrum — assets/audio/instruments/brakedrum.mp3
+Crédito: Versilian Studios LLC / Sam Gossner (VCSL)
+Fuente: https://github.com/sgossner/VCSL/blob/master/Idiophones/Struck%20Idiophones/Brake%20Drum/BrakeDrum1_Hammer_v3_rr1_Mid.wav
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Cortes y fundidos; conversión a MP3 para la app. Las preescuchas secuencian estos golpes reales en una marcha original de 4/4; no contienen una grabación de una obra ajena.
+
+muted_violin_g3 — assets/audio/instruments/muted_violin_g3.mp3
+Crédito: Ivica Ico Bukvic (copyright y grabación, 2005); Rena Ishii (violinista)
+Fuente: https://ico.bukvic.net/Linux/violin_sordino.tar.bz2
+Licencia: Artistic License Version 2.0beta4, October 2000 — assets/audio/sordino-license/License-original.txt
+Cambios: Extraído del PCM del SF2 original; WAV mono PCM16 44.1 kHz, normalización de pico a 0.85; primeros seis segundos, fundido final de 150 ms y MP3 mono 44.1 kHz/160 kbit/s. Sin filtro que simule sordina. Raíz MIDI contrastada con los armónicos; afinación original aproximadamente 8–14 cents sobre A4=440.
+
+muted_violin_bb3 — assets/audio/instruments/muted_violin_bb3.mp3
+Crédito: Ivica Ico Bukvic (copyright y grabación, 2005); Rena Ishii (violinista)
+Fuente: https://ico.bukvic.net/Linux/violin_sordino.tar.bz2
+Licencia: Artistic License Version 2.0beta4, October 2000 — assets/audio/sordino-license/License-original.txt
+Cambios: Extraído del PCM del SF2 original; WAV mono PCM16 44.1 kHz, normalización de pico a 0.85; primeros seis segundos, fundido final de 150 ms y MP3 mono 44.1 kHz/160 kbit/s. Sin filtro que simule sordina. Raíz MIDI contrastada con los armónicos; afinación original aproximadamente 8–14 cents sobre A4=440.
+
+muted_violin_cs4 — assets/audio/instruments/muted_violin_cs4.mp3
+Crédito: Ivica Ico Bukvic (copyright y grabación, 2005); Rena Ishii (violinista)
+Fuente: https://ico.bukvic.net/Linux/violin_sordino.tar.bz2
+Licencia: Artistic License Version 2.0beta4, October 2000 — assets/audio/sordino-license/License-original.txt
+Cambios: Extraído del PCM del SF2 original; WAV mono PCM16 44.1 kHz, normalización de pico a 0.85; primeros seis segundos, fundido final de 150 ms y MP3 mono 44.1 kHz/160 kbit/s. Sin filtro que simule sordina. Raíz MIDI contrastada con los armónicos; afinación original aproximadamente 8–14 cents sobre A4=440.
+
+muted_violin_d4 — assets/audio/instruments/muted_violin_d4.mp3
+Crédito: Ivica Ico Bukvic (copyright y grabación, 2005); Rena Ishii (violinista)
+Fuente: https://ico.bukvic.net/Linux/violin_sordino.tar.bz2
+Licencia: Artistic License Version 2.0beta4, October 2000 — assets/audio/sordino-license/License-original.txt
+Cambios: Extraído del PCM del SF2 original; WAV mono PCM16 44.1 kHz, normalización de pico a 0.85; primeros seis segundos, fundido final de 150 ms y MP3 mono 44.1 kHz/160 kbit/s. Sin filtro que simule sordina. Raíz MIDI contrastada con los armónicos; afinación original aproximadamente 8–14 cents sobre A4=440.
+
+muted_violin_a4 — assets/audio/instruments/muted_violin_a4.mp3
+Crédito: Ivica Ico Bukvic (copyright y grabación, 2005); Rena Ishii (violinista)
+Fuente: https://ico.bukvic.net/Linux/violin_sordino.tar.bz2
+Licencia: Artistic License Version 2.0beta4, October 2000 — assets/audio/sordino-license/License-original.txt
+Cambios: Extraído del PCM del SF2 original; WAV mono PCM16 44.1 kHz, normalización de pico a 0.85; primeros seis segundos, fundido final de 150 ms y MP3 mono 44.1 kHz/160 kbit/s. Sin filtro que simule sordina. Raíz MIDI contrastada con los armónicos; afinación original aproximadamente 8–14 cents sobre A4=440.
+
+violin_a3 — assets/audio/instruments/violin_a3.mp3
+Crédito: Sam Gossner y Simon Dalzell (grabación); Elan Hickler / Soundemote (corte de muestras); Versilian Studios / VSCO 2 CE
+Fuente: https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/Strings/Solo%20Violin/Arco%20Vib/LLVln_ArcoVib_A3_p.wav
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Primeros seis segundos de una grabación real de violín con arco y dinámica piano; mono PCM16 44.1 kHz, fundido de entrada 60 ms y salida 250 ms, pico 0.85. Sin bucle ni transposición en el archivo fuente preparado; MP3 para la app. El motor adapta la reproducción al registro natural, aplica envolventes y mezcla. No es con sordina.
+
+violin_g4 — assets/audio/instruments/violin_g4.mp3
+Crédito: Sam Gossner y Simon Dalzell (grabación); Elan Hickler / Soundemote (corte de muestras); Versilian Studios / VSCO 2 CE
+Fuente: https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/Strings/Solo%20Violin/Arco%20Vib/LLVln_ArcoVib_G4_p.wav
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Primeros seis segundos de una grabación real de violín con arco y dinámica piano; mono PCM16 44.1 kHz, fundido de entrada 60 ms y salida 250 ms, pico 0.85. Sin bucle ni transposición en el archivo fuente preparado; MP3 para la app. El motor adapta la reproducción al registro natural, aplica envolventes y mezcla. No es con sordina.
+
+violin_a4 — assets/audio/instruments/violin_a4.mp3
+Crédito: Sam Gossner y Simon Dalzell (grabación); Elan Hickler / Soundemote (corte de muestras); Versilian Studios / VSCO 2 CE
+Fuente: https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/Strings/Solo%20Violin/Arco%20Vib/LLVln_ArcoVib_A4_p.wav
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Primeros seis segundos de una grabación real de violín con arco y dinámica piano; mono PCM16 44.1 kHz, fundido de entrada 60 ms y salida 250 ms, pico 0.85. Sin bucle ni transposición en el archivo fuente preparado; MP3 para la app. El motor adapta la reproducción al registro natural, aplica envolventes y mezcla. No es con sordina.
+
+violin_c5 — assets/audio/instruments/violin_c5.mp3
+Crédito: Sam Gossner y Simon Dalzell (grabación); Elan Hickler / Soundemote (corte de muestras); Versilian Studios / VSCO 2 CE
+Fuente: https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/Strings/Solo%20Violin/Arco%20Vib/LLVln_ArcoVib_C5_p.wav
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Primeros seis segundos de una grabación real de violín con arco y dinámica piano; mono PCM16 44.1 kHz, fundido de entrada 60 ms y salida 250 ms, pico 0.85. Sin bucle ni transposición en el archivo fuente preparado; MP3 para la app. El motor adapta la reproducción al registro natural, aplica envolventes y mezcla. No es con sordina.
+
+violin_e5 — assets/audio/instruments/violin_e5.mp3
+Crédito: Sam Gossner y Simon Dalzell (grabación); Elan Hickler / Soundemote (corte de muestras); Versilian Studios / VSCO 2 CE
+Fuente: https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/Strings/Solo%20Violin/Arco%20Vib/LLVln_ArcoVib_E5_p.wav
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Primeros seis segundos de una grabación real de violín con arco y dinámica piano; mono PCM16 44.1 kHz, fundido de entrada 60 ms y salida 250 ms, pico 0.85. Sin bucle ni transposición en el archivo fuente preparado; MP3 para la app. El motor adapta la reproducción al registro natural, aplica envolventes y mezcla. No es con sordina.
+
+sun-drop-1 — assets/audio/instruments/sun-drop-1.mp3
+Crédito: Joseph SARDIN / LaSonotheque
+Fuente: https://lasonotheque.org/gouttes-eau-3-s1386.html
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Recorte de una gota real; mono PCM16 44.1 kHz, fades 2/80 ms y pico0.8; sin síntesis ni transposición. Versión MP3 preparada para Sun e incorporada a Deshielo en Anto.
+
+sun-drop-2 — assets/audio/instruments/sun-drop-2.mp3
+Crédito: Joseph SARDIN / LaSonotheque
+Fuente: https://lasonotheque.org/gouttes-eau-3-s1386.html
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Recorte de una gota real; mono PCM16 44.1 kHz, fades 2/80 ms y pico0.8; sin síntesis ni transposición. Versión MP3 preparada para Sun e incorporada a Deshielo en Anto.
+
+sun-ice-crack-1 — assets/audio/instruments/sun-ice-crack-1.mp3
+Crédito: Joseph SARDIN / LaSonotheque
+Fuente: https://lasonotheque.org/glace-qui-craque-1-s2205.html
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Recorte de silencio periférico, mono PCM16 44.1 kHz, fades 2/50 ms y pico0.8; no se añadió síntesis. Versión MP3 preparada para Sun e incorporada a Deshielo en Anto.
+
+sun-ice-crack-2 — assets/audio/instruments/sun-ice-crack-2.mp3
+Crédito: Joseph SARDIN / LaSonotheque
+Fuente: https://lasonotheque.org/glace-qui-craque-3-s2207.html
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Recorte de silencio periférico, mono PCM16 44.1 kHz, fades 2/50 ms y pico0.8; no se añadió síntesis. Versión MP3 preparada para Sun e incorporada a Deshielo en Anto.
+
+sun-glock-g5 — assets/audio/instruments/sun-glock-g5.mp3
+Crédito: Versilian Studios LLC / Sam Gossner
+Fuente: https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Glockenspiel/glock_soft_G4_01.wav
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Glockenspiel real soft. Mono PCM16 44.1kHz, afinación leve por remuestreo al MIDI indicado, fades1/160ms y pico0.8. Sin osciladores. Versión MP3 preparada para Sun e incorporada a Deshielo en Anto.
+
+sun-glock-c6 — assets/audio/instruments/sun-glock-c6.mp3
+Crédito: Versilian Studios LLC / Sam Gossner
+Fuente: https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Glockenspiel/glock_soft_C5_02.wav
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Glockenspiel real soft. Mono PCM16 44.1kHz, afinación leve por remuestreo al MIDI indicado, fades1/160ms y pico0.8. Sin osciladores. Versión MP3 preparada para Sun e incorporada a Deshielo en Anto.
+
+sun-glock-g6 — assets/audio/instruments/sun-glock-g6.mp3
+Crédito: Versilian Studios LLC / Sam Gossner
+Fuente: https://github.com/sgossner/VCSL/blob/c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e/Idiophones/Struck%20Idiophones/Glockenspiel/glock_soft_G5_01.wav
+Licencia: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: Glockenspiel real soft. Mono PCM16 44.1kHz, afinación leve por remuestreo al MIDI indicado, fades1/160ms y pico0.8. Sin osciladores. Versión MP3 preparada para Sun e incorporada a Deshielo en Anto.
+
+PREESCUCHAS
+
+assets/audio/previews/agua-violines.mp3
+Grabaciones/derivado: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Aportaciones originales: CC0 1.0 Universal
+Cambios: Secuenciación, cortes, fundidos, envolventes, balance, panorama y mezcla. Los motivos instrumentales usan transposición por remuestreo; las voces y animales de estas preescuchas no cambian de afinación. Ver recetas de investigación. En el motor actual la reproducción comienza 1 s dentro del arco sostenido, sin modificar la muestra almacenada.
+
+assets/audio/previews/biodiversidad-variedad.mp3
+Grabaciones/derivado: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Aportaciones originales: CC0 1.0 Universal
+Cambios: Secuenciación, cortes, fundidos, envolventes, balance, panorama y mezcla. Los motivos instrumentales usan transposición por remuestreo; las voces y animales de estas preescuchas no cambian de afinación. Ver recetas de investigación.
+
+assets/audio/previews/biodiversidad-extremo.mp3
+Grabaciones/derivado: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Aportaciones originales: CC0 1.0 Universal
+Cambios: Secuenciación, cortes, fundidos, envolventes, balance, panorama y mezcla. Los motivos instrumentales usan transposición por remuestreo; las voces y animales de estas preescuchas no cambian de afinación. Ver recetas de investigación.
+
+assets/audio/previews/bosque-cuerdas-vientos.mp3
+Grabaciones/derivado: Bukvic: Artistic License Version 2.0beta4, October 2000; flauta y clarinete: CC0 1.0. Derivado mezclado distribuido bajo Artistic License Version 2.0beta4, October 2000 — assets/audio/sordino-license/License-original.txt
+Aportaciones originales: Artistic License Version 2.0beta4, October 2000
+Cambios: Preescucha regenerada por el motor de la app a partir de violín auténtico con sordina, flauta y clarinete: eventos, transposición por remuestreo, envolventes, panorama, tensión y fragmentación expresiva. El derivado y sus aportes originales mantienen Artistic License Version 2.0beta4. La receta anterior de mezcla Python se conserva como histórica; la fuente actual añade motor, política, banco y eventos de reproducción.
+
+assets/audio/previews/oceano-arpa-cuerdas-metales.mp3
+Grabaciones/derivado: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Aportaciones originales: CC0 1.0 Universal
+Cambios: Secuenciación, cortes, fundidos, envolventes, balance, panorama y mezcla. Los motivos instrumentales usan transposición por remuestreo; las voces y animales de estas preescuchas no cambian de afinación. Ver recetas de investigación.
+
+assets/audio/previews/vida-marina-flauta-cello.mp3
+Grabaciones/derivado: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Aportaciones originales: CC0 1.0 Universal
+Cambios: Secuenciación, cortes, fundidos, envolventes, balance, panorama y mezcla. Los motivos instrumentales usan transposición por remuestreo; las voces y animales de estas preescuchas no cambian de afinación. Ver recetas de investigación.
+
+assets/audio/previews/humanos-coro.mp3
+Grabaciones/derivado: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Aportaciones originales: CC0 1.0 Universal
+Cambios: Secuenciación, cortes, fundidos, envolventes, balance, panorama y mezcla. Los motivos instrumentales usan transposición por remuestreo; las voces y animales de estas preescuchas no cambian de afinación. Ver recetas de investigación.
+
+assets/audio/previews/deshielo-gotas-hielo.mp3
+Grabaciones/derivado: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Aportaciones originales: CC0 1.0 Universal
+Cambios: Archivo MP3 de la preescucha de Sun incorporado sin modificar sus bytes. Grabaciones de gotas en plato, hielo aplastado en estudio y glockenspiel; eventos, eco discreto, subdivisiones y armonía de campanillas. Pico normalizado a 0.8 y cierre de 60 ms en la preparación original Sun. No es audio registrado en un glaciar.
+
+assets/audio/previews/economia-marcha-industrial.mp3
+Grabaciones/derivado: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Aportaciones originales: CC0 1.0 Universal
+Cambios: Marcha industrial original a 90 BPM, familia de caja, bombo, yunque y tambor de freno; patrón reconocible y cambios mínimos. La nueva preescucha usa el mismo motor de la app.
+
+assets/audio/previews/latido-humano.mp3
+Grabaciones/derivado: CC BY 3.0 — https://creativecommons.org/licenses/by/3.0/
+Aportaciones originales: CC0 1.0 Universal
+Cambios: Benboncan: grabación original; Natural Philo: versión procesada de Wikimedia Commons. Edición para PulsoTerra: recorte de ciclo de 0.94 a 1.92 s, fundidos, filtro pasaaltos a 40 Hz, EQ +5 dB a 220 Hz y +3 dB a 650 Hz, compresión 2.5:1 y normalización; MP3. En preescucha, repetición a 60 BPM. No se añadieron osciladores.
+
+LÍMITES Y FUENTES
+Los escenarios globales citados usan referencia 1850–1900; el mapa muestra anomalías locales respecto a 1951–1980. No se calcula un porcentaje de daño del píxel.
+Bosque: violinista solista con sordina real, Rena Ishii; Copyright Ivica Ico Bukvic 2005. No sección orquestal completa ni dinámica piano/pp documentada.
+Voces: grupo humano real no profesional. Vida marina: gesto de lamento como metáfora, no asfixia real de ballenas.
+Los compositores citados son referencias artísticas, sin reutilizar interpretaciones comerciales de sus obras.
+No se afirma una audición humana desde este entorno.
+Licencias y trazabilidad: licencias.json; fuente y avisos Bukvic: assets/audio/sordino-license/.
+
+FUENTE ACTUAL DE ANTO: DESHIELO
+Banco versión 3: 50 muestras activas. Motor actual SHA-256: 15f759381b036018aa00488eadf89395621c9b88ba0e9d171981ce8c911905b0
+Fuente y avisos completos: assets/audio/sordino-source.zip. El paquete conserva el tar original Bukvic y Artistic 2.0beta4 del bosque, más el renderer anterior de las nueve preescuchas retenidas. La fuente actual y las recetas identifican cada procedencia original. Deshielo conserva el MP3 exacto de Sun; sus créditos CC0, hashes y receta están en assets/audio/sordino-license/ice-source/. No se modifican las otras siete categorías.

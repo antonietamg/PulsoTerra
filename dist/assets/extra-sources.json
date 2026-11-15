@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1890",
+    "label": "1890",
+    "date": "1890",
+    "year": 1890,
+    "image": "assets/temperature-1890.png",
+    "sourceUrl": "https://svs.gsfc.nasa.gov/vis/a000000/a005200/a005207/frames/3840x2160_16x9_30p/GISTEMP_Map_4K057.png",
+    "frameIndex": 57,
+    "sourceSha256": "829ec2b6dc7d1fe1edb073c31be91f0a1a582439c09f13c284f869ed45a4ebd7",
+    "imageSha256": "ee9dfdd2a59d000aaeda4029e825ef946c7f083c75be0d720a4df7157e1a9514",
+    "description": "Fotograma NASA rotulado 1890; promedio móvil de 24 meses, referencia 1951–1980."
+  },
+  {
+    "id": "1920",
+    "label": "1920",
+    "date": "1920",
+    "year": 1920,
+    "image": "assets/temperature-1920.png",
+    "sourceUrl": "https://svs.gsfc.nasa.gov/vis/a000000/a005200/a005207/frames/3840x2160_16x9_30p/GISTEMP_Map_4K237.png",
+    "frameIndex": 237,
+    "sourceSha256": "79a864f01d4de1cfdadfa90fef84a1d5cc1303f9865b468f930d5881f3b03eac",
+    "imageSha256": "a53ba4cce3158fb8c98b88005923ca9d6c4bc965e6c10f08cccd7dcedd389a42",
+    "description": "Fotograma NASA rotulado 1920; promedio móvil de 24 meses, referencia 1951–1980."
+  }
+]

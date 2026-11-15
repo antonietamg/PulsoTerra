@@ -1,0 +1,62 @@
+[
+  {
+    "id": "flute_c4",
+    "sourceUrl": "https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/Woodwinds/Flute/susvib/LDFlute_susvib_C3_v1_1.wav",
+    "rawUrl": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Woodwinds/Flute/susvib/LDFlute_susvib_C3_v1_1.wav",
+    "sourceSha256": "073631c8442b275d803e608e840c2ce6cad3b08320018e08510cf3cb57373154",
+    "preparedSha256": "381940e909ad6955a26640a51394bce337560c3892dac9c1d9e268d3addc9309",
+    "license": "CC0 1.0 Universal",
+    "licenseUrl": "https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/LICENSE",
+    "creator": "Sam Gossner and Simon Dalzell; sample cutting Elan Hickler / Soundemote"
+  },
+  {
+    "id": "flute_e4",
+    "sourceUrl": "https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/Woodwinds/Flute/susvib/LDFlute_susvib_E3_v1_1.wav",
+    "rawUrl": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Woodwinds/Flute/susvib/LDFlute_susvib_E3_v1_1.wav",
+    "sourceSha256": "831386b21a704a5fccf204b18a536d638ea191f1b56662200192241215e21abd",
+    "preparedSha256": "bf31cfd72aa2f595c04bd9f2689857e8275de0c3965392e78829da1ab78df289",
+    "license": "CC0 1.0 Universal",
+    "licenseUrl": "https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/LICENSE",
+    "creator": "Sam Gossner and Simon Dalzell; sample cutting Elan Hickler / Soundemote"
+  },
+  {
+    "id": "flute_a4",
+    "sourceUrl": "https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/Woodwinds/Flute/susvib/LDFlute_susvib_A3_v1_1.wav",
+    "rawUrl": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Woodwinds/Flute/susvib/LDFlute_susvib_A3_v1_1.wav",
+    "sourceSha256": "4ea04a7a2ba152752e1b475798619a62f2546f54972caa6ddcd88f29a2046c81",
+    "preparedSha256": "0828e10a30971f8b6d42056af605afcfa8bfd4ca3d0dc1a19f36c296434635ea",
+    "license": "CC0 1.0 Universal",
+    "licenseUrl": "https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/LICENSE",
+    "creator": "Sam Gossner and Simon Dalzell; sample cutting Elan Hickler / Soundemote"
+  },
+  {
+    "id": "clarinet_d3",
+    "sourceUrl": "https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/Woodwinds/Clarinet/susLong/DCClar_susLong_D2_v1_rr1_sum.wav",
+    "rawUrl": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Woodwinds/Clarinet/susLong/DCClar_susLong_D2_v1_rr1_sum.wav",
+    "sourceSha256": "359344f125ee42ea30b1143ef7ad3ea0d8a19f871d400a07bf784bd691b1a72a",
+    "preparedSha256": "993b14bc902f87237df9872be3a6fc92b2009727f78a8c961bffbd21d4dbb89e",
+    "license": "CC0 1.0 Universal",
+    "licenseUrl": "https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/LICENSE",
+    "creator": "Sam Gossner and Simon Dalzell; sample cutting Elan Hickler / Soundemote"
+  },
+  {
+    "id": "clarinet_f3",
+    "sourceUrl": "https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/Woodwinds/Clarinet/susLong/DCClar_susLong_F2_v1_rr1_sum.wav",
+    "rawUrl": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Woodwinds/Clarinet/susLong/DCClar_susLong_F2_v1_rr1_sum.wav",
+    "sourceSha256": "008d2f0894c90e912f8315639ff8ed2687454195be14054e5fadee8e0db3b559",
+    "preparedSha256": "658d86837e3232be41510650e598a91554cfd9c6ebb75a1c0c21a0c4093178ba",
+    "license": "CC0 1.0 Universal",
+    "licenseUrl": "https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/LICENSE",
+    "creator": "Sam Gossner and Simon Dalzell; sample cutting Elan Hickler / Soundemote"
+  },
+  {
+    "id": "clarinet_bb3",
+    "sourceUrl": "https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/Woodwinds/Clarinet/susLong/DCClar_susLong_A%232_v1_rr1_sum.wav",
+    "rawUrl": "https://raw.githubusercontent.com/sgossner/VSCO-2-CE/440300901dfe9275fd84e0b7763af1f8443ae62e/Woodwinds/Clarinet/susLong/DCClar_susLong_A%232_v1_rr1_sum.wav",
+    "sourceSha256": "f4e51e4addda4e87e84b0a57b1de21cb447adff0a2c1aa5c71b5d3ef5618a93e",
+    "preparedSha256": "21a086d73db49a7a6991b6d83d65ca87044dc8070640464a548b21fe3d5bce18",
+    "license": "CC0 1.0 Universal",
+    "licenseUrl": "https://github.com/sgossner/VSCO-2-CE/blob/440300901dfe9275fd84e0b7763af1f8443ae62e/LICENSE",
+    "creator": "Sam Gossner and Simon Dalzell; sample cutting Elan Hickler / Soundemote"
+  }
+]

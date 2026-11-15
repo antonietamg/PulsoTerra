@@ -1,0 +1,56 @@
+PULSO TIERRA ANTO — CURRENT SOURCE: FOOD REPLACED BY ICE
+
+The current app is the engine SHA-256 recorded in render-recipes.json and
+source-files.json. bank.json is version 3 with 50 active samples. ice replaces
+food at position 7; the other seven theme methods and existing recordings
+are retained. No regional modifications from Sun were imported.
+
+Nine preview MP3 files remain byte-identical to the prior published Anto
+version. The Deshielo MP3 is copied byte for byte from Sun, without decoding
+or re-encoding. Each track in render-recipes.json retains its original render
+engine provenance. The former published renderer is preserved separately in
+../retained-previews-engine/ for those unchanged preview origins; its food
+entry is historical, not an active category of this app.
+
+Current source files: atlas-audio.js, sonification-policy.js, bank.json,
+prepare-sounds.py and render-recipes.json. Source snapshots retain their
+project-relative path assumptions. Serve those exact scripts with the sample
+assets whose URLs are listed in bank.json. Load the policy and bank before
+the engine. To reproduce a track through Web Audio / OfflineAudioContext:
+
+  const engine = new AtlasAudioEngine();
+  engine.setVolume(recipe.masterVolume);
+  engine.setHeartbeat(track.heart);
+  const wav = await engine.exportWav(track.events, {
+    duration: recipe.duration, music: track.music
+  });
+
+recipe is parsed render-recipes.json; track is its corresponding entry.
+Select the renderer matching a track's originalRenderEngineSha256 to
+reproduce the original published render, or the current engine to reproduce
+current live playback. Browser/decoder implementations can cause numerical
+differences; preserving source and events is not a promise of identical
+floating-point results in every browser.
+
+Deshielo original Sun asset and recipe are documented in ../ice-source/.
+They use actual water drops recorded in a plate, an ice block crushed in a
+studio, and real soft glockenspiel recordings: all CC0. The published preview
+has heart:false and needs no heartbeat attribution. It is not a field
+recording of a glacier. Cold-extreme tension is artistic and does not assert
+that cold causes melting. Values are local temperature-anomaly examples
+referenced to 1951-1980, not quantitative global warming/damage scenarios.
+
+For exact delivered bytes, prepare-sounds.py copies the imported ice MP3
+files and preview rather than re-encoding them. Imported hashes appear in
+the public license registry and ice-source/provenance.json. The former nine
+previews retain their existing bytes. Historical preview encoding used a
+constant gain to input peak 0.8 plus final 60 ms fade, MP3/libmp3lame 160 kbit/s at
+44.1 kHz; this does not change the app's original live mix.
+
+The complete original Bukvic SF2 and notices remain in violin_sordino.tar.bz2
+in the source ZIP. ../rebuild_samples.py reconstructs the five muted-violin
+WAVs. ../fetch_cc0_sources.py reconstructs the separate CC0 wind palette.
+The original muted samples, modified muted data and derived forest rendering
+keep the included Artistic License Version 2.0beta4, October 2000, not Artistic
+2.0 final and not CC0. Other packages retain their individual licenses. No QA
+baseline fixture or temporary local HTTP bridge is included.

@@ -1,0 +1,77 @@
+{
+  "source": {
+    "filename": "alien_app.mp4",
+    "sha256": "4bffaa04e1902e03ac2c5df2b77c0b3a7519d3e60768345820e5839c4980fa8d",
+    "bytes": 10677411,
+    "attribution": "Animación proporcionada por usuario"
+  },
+  "output": {
+    "filename": "alien-app.mp4",
+    "sha256": "6c4a761f678daa5594a9f95e3fcf48035bec540d5024c9794d03caba5e4b887f",
+    "bytes": 2221806,
+    "codec": "H.264",
+    "pixelFormat": "yuv420p",
+    "width": 512,
+    "height": 752,
+    "frameRate": 24,
+    "frames": 493,
+    "durationSeconds": 20.541667,
+    "hasAudio": false
+  },
+  "poster": {
+    "filename": "poster.jpg",
+    "sha256": "a485e42b09bb3f2c52c0708a523d399f1ab56e0493467ea0a26a0fd96cf21f60",
+    "bytes": 114979,
+    "sourceTimeSeconds": 0.5,
+    "format": "JPEG",
+    "creativeEdits": false
+  },
+  "processing": {
+    "encoder": "libx264",
+    "crf": 25,
+    "preset": "medium",
+    "nativeResolutionPreserved": true,
+    "faststart": true,
+    "audioRemoved": true,
+    "videoCommand": [
+      "ffmpeg",
+      "-i",
+      "alien_app.mp4",
+      "-map",
+      "0:v:0",
+      "-an",
+      "-c:v",
+      "libx264",
+      "-preset",
+      "medium",
+      "-crf",
+      "25",
+      "-pix_fmt",
+      "yuv420p",
+      "-movflags",
+      "+faststart",
+      "alien-app.mp4"
+    ],
+    "posterCommand": [
+      "ffmpeg",
+      "-ss",
+      "0.5",
+      "-i",
+      "alien_app.mp4",
+      "-frames:v",
+      "1",
+      "-q:v",
+      "2",
+      "poster.jpg"
+    ],
+    "generativeEdits": false
+  },
+  "instrument": null,
+  "verification": {
+    "sameResolutionAndFrameCount": true,
+    "originalDurationPreserved": true,
+    "audioStreams": 0,
+    "faststartMoovBeforeMdat": true,
+    "firstFrameCompositionPreserved": true
+  }
+}

@@ -1,0 +1,197 @@
+/* Load after alien-theme.css. Image pixels, NASA swatches, video and records
+   are never filtered, recolored, enlarged with transforms or inverted. */
+:root { --pt-text-scale: 1; }
+.listening-shortcuts { display: flex; flex-wrap: wrap; gap: 10px 22px; margin: 4px 0 24px; font-size: 13px; }
+.listening-shortcuts a { display: inline-flex; align-items: center; min-height: 44px; }
+.accessible-toggle { display: flex; align-items: flex-start; gap: 10px; margin: 12px 0; line-height: 1.6; }
+.accessible-toggle input { flex: 0 0 auto; width: 20px; height: 20px; margin-top: 3px; }
+.accessible-note { color: var(--app-muted); font-size: .85em; }
+.accessible-actions button { border: 1px solid var(--app-text); border-radius: 12px; color: var(--app-text); background: var(--app-card); }
+.accessible-actions button:hover { border-color: var(--alien-violet); background: var(--app-pastel); }
+.accessible-actions button:disabled { opacity: .65; cursor: default; }
+.accessible-actions button[aria-disabled="true"] { opacity: .65; cursor: default; }
+.accessible-reading { padding: 14px 16px; border: 1px solid var(--app-border); border-radius: 12px; }
+.hero-copy h1 { overflow-wrap: anywhere; }
+
+/* Native details remains operable by click, Enter and Space, without hover. */
+.accessibility-options { min-inline-size: 0; max-inline-size: 100%; font: inherit; }
+.accessibility-options > summary {
+  min-block-size: 44px;
+  padding: .6em .85em;
+  border: 1px solid var(--app-border, #8b7b9c);
+  border-radius: 14px;
+  color: var(--app-text, #020259);
+  background: var(--app-card, #fffaf2);
+  font: inherit;
+  line-height: 1.5;
+  list-style-position: inside;
+  cursor: pointer;
+  overflow-wrap: anywhere;
+}
+.accessibility-options:not([open]) > .accessibility-menu { display: none; }
+.accessibility-options[open] > .accessibility-menu {
+  position: static;
+  display: grid;
+  gap: .5rem;
+  inline-size: min(100%, 21rem);
+  min-inline-size: 0;
+  margin-block-start: .5rem;
+  padding: .75rem;
+  border: 1px solid var(--app-border, #8b7b9c);
+  border-radius: 14px;
+  color: var(--app-text, #020259);
+  background: var(--app-card, #fffaf2);
+}
+.accessibility-menu :is(button, .font-preference),
+button[data-high-contrast], button[data-large-text] {
+  min-block-size: 44px;
+  min-inline-size: 44px;
+  max-inline-size: 100%;
+  padding: .6em .8em;
+  border: 1px solid var(--app-border, #8b7b9c);
+  border-radius: 10px;
+  color: var(--app-text, #020259);
+  background: var(--app-card, #fffaf2);
+  font: inherit;
+  line-height: 1.5;
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+.accessibility-menu button[aria-pressed="true"],
+button[data-high-contrast][aria-pressed="true"], button[data-large-text][aria-pressed="true"] {
+  color: var(--alien-text, #fff6e7);
+  background: var(--alien-violet, #5642d9);
+  border-color: var(--alien-violet, #5642d9);
+}
+.site-header:has(.accessibility-options[open]) { height: auto; min-height: 94px; align-items: flex-start; padding-block: 1rem; }
+
+/* The non-visual explorer uses normal flow and shares the app typography. */
+.accessible-explorer {
+  inline-size: 100%;
+  min-inline-size: 0;
+  margin-block: 0 1rem;
+  padding: 1rem;
+  border: 1px solid var(--app-border, #8b7b9c);
+  border-radius: 16px;
+  color: var(--app-text, #020259);
+  background: var(--app-card, #fffaf2);
+  font: inherit;
+  line-height: 1.6;
+}
+.accessible-explorer > summary { min-block-size: 44px; padding-block: .5rem; font-weight: 700; cursor: pointer; list-style-position: inside; }
+.accessible-explorer p { margin-block: .75rem; }
+.accessible-fields {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 14rem), 1fr));
+  gap: .85rem 1rem;
+  margin-block: 1rem;
+  min-inline-size: 0;
+}
+.accessible-fields label { display: grid; gap: .4rem; min-inline-size: 0; font: inherit; font-weight: 600; }
+.accessible-fields :is(select, input) {
+  inline-size: 100%; min-inline-size: 0; max-inline-size: 100%; min-block-size: 44px;
+  padding: .55em .65em; border: 1px solid var(--app-border, #8b7b9c); border-radius: 8px;
+  color: var(--app-text, #020259); background: var(--app-card, #fffaf2); font: inherit; line-height: 1.5;
+}
+.accessible-actions { display: flex; flex-wrap: wrap; align-items: center; gap: .65rem; margin-block: 1rem; }
+.accessible-actions button { min-block-size: 44px; max-inline-size: 100%; padding: .6em 1em; font: inherit; font-weight: 600; white-space: normal; }
+.accessible-reading, #accessibleSummary { min-inline-size: 0; max-inline-size: 100%; font: inherit; line-height: 1.7; overflow-wrap: anywhere; }
+:is(.accessibility-options, .accessible-explorer) :is(button, select, input, summary):focus-visible {
+  outline: 3px solid var(--alien-violet, #5642d9); outline-offset: 3px;
+}
+.skip-link {
+  position: fixed; z-index: 2000; inset-block-start: .5rem; inset-inline-start: .5rem;
+  max-inline-size: calc(100% - 1rem); min-block-size: 44px; padding: .65rem 1rem;
+  color: #000; background: #fff; border: 2px solid #000; border-radius: 8px;
+  font: inherit; font-weight: 700; line-height: 1.5; transform: translateY(-200%);
+}
+.skip-link:focus { transform: none; outline: 3px solid #0052cc; outline-offset: 3px; }
+
+/* High contrast changes interface tokens, never scientific image data. */
+html.high-contrast {
+  color-scheme: light;
+  --paper: #fff; --ink: #000; --muted: #202020; --line: #000;
+  --accent: #003780; --green: #003780; --map: #000; --white: #fff;
+  --app-pastel: #fff; --app-card: #fff; --app-text: #000; --app-muted: #202020; --app-border: #000;
+  --alien-navy: #000; --alien-card: #000; --alien-text: #fff; --alien-sand: #fff;
+  --alien-violet: #003780; --alien-orange: #ffdf00; --alien-hover: #ffe96a; --alien-cream: #fff;
+}
+html.high-contrast a { text-decoration: underline; text-decoration-thickness: .12em; }
+html.high-contrast :is(.welcome-screen, .visual-panel) a { color: #fff; }
+html.high-contrast :is(.visual-panel button, .map-hint, .live-badge) { border-color: #fff; }
+html.high-contrast :is(button, select, summary) { min-block-size: 44px; }
+html.high-contrast :is(button, a, input, select, summary, [tabindex]):focus-visible {
+  outline: 3px solid #ffdf00; outline-offset: 3px; box-shadow: 0 0 0 6px #000;
+}
+
+/* Fixed pixel font sizes in the existing theme need explicit rem overrides.
+   At the default 16 px root, 125% gives a 20 px root. Small captions are raised
+   to at least .75rem (15 px) while body text becomes 17.5 px. */
+html.large-text { --pt-text-scale: 1.25; font-size: 125%; }
+html.large-text body { font-size: .875rem; line-height: 1.65; }
+html.large-text :is(button, input, select, textarea) { font-size: inherit; }
+html.large-text :is(.micro-label, .eyebrow, .source-line, .indicator, .text-button, .step-mark,
+  .map-kicker, .map-subtitle, .map-hint, .legend button, .legend-foot, .live-badge,
+  .play-status, .mode-description, .mode-button small, .impact-button small,
+  .instrument-origin, .frame-state, .section-tab, .site-footer, .guide-note,
+  .guide-motion, .guide-topics button, .welcome-credit > span, .vivaldi-comparison > p,
+  .language-switch select, .font-preference, .slider-block output, .distribution-title > span) { font-size: .75rem; }
+html.large-text :is(.intro-copy > p:first-child, .mode-button strong, .impact-button strong,
+  .frame-label-row, .sound-audition p, .sound-audition a, .heart-audition, .guide-lead,
+  #guideNarrative, #impactWhy, .impact-more, .welcome-lead) { font-size: .875rem; }
+html.large-text :is(.vivaldi-ab button, .primary-button, .secondary-button, .region-picker select, .detail-row select) { font-size: .875rem; }
+html.large-text .brand { font-size: 1.4375rem; }
+html.large-text h2 { font-size: 1.25rem; }
+html.large-text h3 { font-size: 1.125rem; }
+html.large-text .guide-copy h2 { font-size: 1.5625rem; }
+html.large-text #guideArticle h3 { font-size: 1rem; }
+html.large-text .hero-copy h1 { font-size: clamp(2.25rem, 4.75vw, 3.25rem); line-height: 1.2; }
+html.large-text #welcomeTitle { font-size: clamp(2.125rem, 5vw, 3rem); }
+html.large-text .map-year { font-size: 1.5rem; }
+html.large-text :is(button, select, summary) { min-block-size: 44px; }
+html.large-text :is(.icon-button, .impact-motion) { min-inline-size: 44px; inline-size: auto; min-block-size: 44px; block-size: auto; }
+html.large-text :is(.workspace > *, .header-right, .control-panel, .mode-button, .frame-button) { min-inline-size: 0; }
+html.large-text .site-header { height: auto; flex-wrap: wrap; gap: 1rem; padding-block: 1rem; }
+html.large-text .header-right { max-width: 100%; flex-wrap: wrap; }
+html.large-text .mode-switch { flex-wrap: wrap; }
+html.large-text .mode-button { flex: 1 1 13rem; }
+html.large-text .legend { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 4.2rem), 1fr)); gap: .5rem; }
+html.large-text .timeline { grid-template-columns: repeat(auto-fit, minmax(min(100%, 8rem), 1fr)); }
+html.large-text .play-row { flex-wrap: wrap; }
+html.large-text .play-row .primary-button { flex: 1 1 10rem; }
+html.large-text :is(.instrument-row, .play-status, .distribution-title, .section-row) { flex-wrap: wrap; gap: .5rem; }
+html.large-text :is(p, button, label, output, .section-tab, .frame-label-row, .mode-button) { overflow-wrap: anywhere; }
+html.large-text .alien-host { display: flex; flex-direction: column; align-items: center; gap: 1rem; height: auto; min-height: 0; }
+html.large-text .alien-speech { position: relative; inset: auto; width: min(100%, 18rem); margin-bottom: .5rem; }
+html.large-text .alien-speech p { font-size: 1.125rem; }
+html.large-text .alien-video { position: static; width: min(100%, 15rem); height: auto; max-height: none; }
+html.large-text .alien-motion { position: static; max-width: 100%; width: auto; font-size: .75rem; text-align: center; }
+html.large-text .welcome-start { min-width: 0; width: min(100%, 14rem); font-size: 1.125rem; padding: .75rem 1rem; }
+
+@media (max-width: 50rem) {
+  .site-header:has(.accessibility-options) { height: auto; min-height: 75px; flex-wrap: wrap; gap: .75rem; padding-block: 1rem; }
+  .site-header:has(.accessibility-options) .header-right { width: 100%; max-width: 100%; justify-content: flex-start; }
+  .accessibility-options[open] { flex-basis: 100%; }
+  html.large-text .workspace { grid-template-columns: minmax(0, 1fr); }
+}
+@media (max-width: 24rem) {
+  .welcome-options { width: 100%; max-width: 100%; flex-wrap: wrap; }
+  .welcome-options .accessibility-options { flex: 1 1 100%; }
+  .accessible-fields { grid-template-columns: minmax(0, 1fr); }
+  .accessible-actions > button { flex: 1 1 100%; }
+  html.large-text .vivaldi-ab { grid-template-columns: minmax(0, 1fr); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .skip-link, .accessibility-options, .accessible-explorer { transition: none !important; scroll-behavior: auto; }
+}
+@media (forced-colors: active) {
+  :is(.accessibility-options > summary, .accessibility-menu, .accessible-explorer,
+    .accessibility-menu button, [data-high-contrast], [data-large-text], .accessible-fields select) {
+    color: CanvasText; background: Canvas; border-color: CanvasText; forced-color-adjust: auto;
+  }
+  html.high-contrast :is(button, a, input, select, summary, [tabindex]):focus-visible,
+  :is(.accessibility-options, .accessible-explorer) :focus-visible, .skip-link:focus {
+    outline: 3px solid Highlight; box-shadow: none;
+  }
+  .legend-swatch, .distribution-bar > span { forced-color-adjust: none; }
+}

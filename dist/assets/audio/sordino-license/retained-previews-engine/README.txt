@@ -1,0 +1,1 @@
+Historical published version5 renderer for the nine unchanged Anto preview files. This is source provenance, not a QA baseline fixture. The active app uses the current-engine snapshot with ice and50samples. The retired food track in this historical recipe is not an active category. Original copyrights and mixed source licenses remain in force.

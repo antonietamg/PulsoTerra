@@ -1,0 +1,107 @@
+{
+  "originVariant": "Sun",
+  "originCommit": "537a9ecdfac1a395a6a026d3c3783b17ebe3caf3",
+  "originSiteUrl": "https://pulso-tierra-sun.akisunshin.chatgpt.site/",
+  "originVersionNumber": 1,
+  "copiedWithoutReencoding": true,
+  "assets": [
+    {
+      "id": "sun-drop-1",
+      "instrument": "waterdrop",
+      "noteMidi": null,
+      "mp3": "assets/audio/instruments/sun-drop-1.mp3",
+      "mp3Sha256": "946e06aa486035a1e5275f6285d395273ec8aeedc6393f59d4dd23481a6b0d6f",
+      "preparedWavSha256": "624183fd28c90a824bf1322cad1feca3201876e84c74913253bc5bb522c3da7e",
+      "sourceSha256": "893a4389da29098831f43b9196d7ffd01dbf0b65adfd97fd850507e8353f47f3",
+      "mp3RelativePath": "imported-mp3/sun-drop-1.mp3"
+    },
+    {
+      "id": "sun-drop-2",
+      "instrument": "waterdrop",
+      "noteMidi": null,
+      "mp3": "assets/audio/instruments/sun-drop-2.mp3",
+      "mp3Sha256": "b85bb2e155dc4409fe1ba744b2eab2f1dc84b207dd75aacae9c57b209da65593",
+      "preparedWavSha256": "f352d58fd2045e9ab3f8bcff39fbd5708f96e85674040ec0f0d364242d149d97",
+      "sourceSha256": "893a4389da29098831f43b9196d7ffd01dbf0b65adfd97fd850507e8353f47f3",
+      "mp3RelativePath": "imported-mp3/sun-drop-2.mp3"
+    },
+    {
+      "id": "sun-ice-crack-1",
+      "instrument": "icecrack",
+      "noteMidi": null,
+      "mp3": "assets/audio/instruments/sun-ice-crack-1.mp3",
+      "mp3Sha256": "f785d69921426bf7c1c5a062f6607edec80efeea462aa8cebd4d571d8698b882",
+      "preparedWavSha256": "702d18c61159586419aa72a2a87acd68dc9a14d148b91aef1234167a59826c2b",
+      "sourceSha256": "b7dc0ed0cb82ce01d3b56ceec917f82b86e62b6c7ab6e0adc8c6df8cdae8cdbb",
+      "mp3RelativePath": "imported-mp3/sun-ice-crack-1.mp3"
+    },
+    {
+      "id": "sun-ice-crack-2",
+      "instrument": "icecrack",
+      "noteMidi": null,
+      "mp3": "assets/audio/instruments/sun-ice-crack-2.mp3",
+      "mp3Sha256": "337e845aab4415ce4e0974ed139d55685a7930eb66d18126c26a1bf2b4290b60",
+      "preparedWavSha256": "2f146052e95bd51bc728b9e2d518e940ebd27678710ae41b7c5288290aa7535f",
+      "sourceSha256": "5d131aa8bd374fafcce5f27d3076c1fbfab22d446cf261bf376a1f640d291c60",
+      "mp3RelativePath": "imported-mp3/sun-ice-crack-2.mp3"
+    },
+    {
+      "id": "sun-glock-g5",
+      "instrument": "glockenspiel",
+      "noteMidi": 79,
+      "mp3": "assets/audio/instruments/sun-glock-g5.mp3",
+      "mp3Sha256": "8dd0702c21c12ae6324e430c248c7737b6dabdbbb1add4c64ee67994928a4736",
+      "preparedWavSha256": "040fa30d3bb6851190df85c74f30d72ccb8815ee75453cb3dbe452e3d03dff62",
+      "sourceSha256": "cd92f9402c28d3e951dc8d575ce61f0a550b7e316cb6427b1b455ac3aab09000",
+      "mp3RelativePath": "imported-mp3/sun-glock-g5.mp3"
+    },
+    {
+      "id": "sun-glock-c6",
+      "instrument": "glockenspiel",
+      "noteMidi": 84,
+      "mp3": "assets/audio/instruments/sun-glock-c6.mp3",
+      "mp3Sha256": "c720945716f89df6572f9e610be1ec0f941e9a78bc5eeb8ce00d883b6ed4fe85",
+      "preparedWavSha256": "8d181e20ac8150e47582c551314eaeb27d7322f0ffe67e93c523ac2541579d10",
+      "sourceSha256": "4fa149e6f224557df5fab98ad660a8f192bc6fbf2556077dd1089509bf4424e2",
+      "mp3RelativePath": "imported-mp3/sun-glock-c6.mp3"
+    },
+    {
+      "id": "sun-glock-g6",
+      "instrument": "glockenspiel",
+      "noteMidi": 91,
+      "mp3": "assets/audio/instruments/sun-glock-g6.mp3",
+      "mp3Sha256": "036c4ec88e9a57ece0e705258480478a14831c870b3f3efb82e91aa38348eaec",
+      "preparedWavSha256": "3ff25eb3c8d122ce0a69c065f0cdc738655606f788d817f489019f58ecfe766e",
+      "sourceSha256": "73f6a6de89291d0292b303d641444de5e6e1561881f09f6cf20d77f245f7bec3",
+      "mp3RelativePath": "imported-mp3/sun-glock-g6.mp3"
+    }
+  ],
+  "otherExistingPreviewsUnchanged": true,
+  "preview": {
+    "id": "ice",
+    "label": "Deshielo · gotas, hielo y campanillas",
+    "publishedPath": "assets/audio/previews/deshielo-gotas-hielo.mp3",
+    "mp3Sha256": "8e11bd7b6df22fbe1c5a2852bc444fda0ab7bbf447b3b42d7cb5aa75ebbb6338",
+    "wavSha256": "9915bfb17e8ac129b1cae0cc005db7d7ac3d574bb59c6bef2b4980863e16d3b9",
+    "sourceIds": [
+      "sun-drop-1",
+      "sun-drop-2",
+      "sun-glock-c6",
+      "sun-glock-g5",
+      "sun-ice-crack-1",
+      "sun-ice-crack-2"
+    ],
+    "heartbeat": false,
+    "license": "CC0 1.0 Universal source recordings; original Sun demonstration arrangement",
+    "originVariant": "Sun",
+    "originCommit": "537a9ecdfac1a395a6a026d3c3783b17ebe3caf3",
+    "originSiteUrl": "https://pulso-tierra-sun.akisunshin.chatgpt.site/",
+    "notes": "Copia byte a byte de la preescucha Sun; gotas en plato y hielo de estudio, no grabación de glaciar ni medición de fusión. La receta publicada de esta preescucha tiene heart:false.",
+    "copyPublishedBytes": true,
+    "duration": 16.0,
+    "sampleRate": 44100,
+    "channels": 2,
+    "bitsPerSample": 16,
+    "renderRecipe": "render-recipe.json"
+  }
+}
