@@ -2,7 +2,7 @@
 
 ## Team statement
 
-**PulsoTerra was conceived and creatively directed by the human project team: Paola Sosa Zepeda, Paris Jolie Maceda Espejel, Sundury Aloany Valente Solis, Griselda Miranda González, and Dr. Antonieta Martínez-Guerrero, Universidad de las Américas Puebla (UDLAP).**
+**PulsoTerra was conceived and creatively directed by the human project team: Paris Jolie Maceda Espejel, Griselda Miranda González, Paola Sosa Zepeda, Sundury Aloany Valente Solis, and Dr. Antonieta Martínez-Guerrero, Universidad de las Américas Puebla (UDLAP).**
 
 The team identifies the project's core ideas as its own: scanning climate images through their RGB color information, translating temperature into sound, using a heartbeat as the planet's expressive pulse, connecting the mappings to crossmodal perception, selecting musical references for environmental themes, and making the experience accessible for independent exploration. ChatGPT did not act as the project's originator, principal investigator, or autonomous creative director.
 
