@@ -54,7 +54,7 @@ Python 3 is needed for the gallery builder. See [reproducibility](docs/REPRODUCI
 
 ## Team
 
-Created by Paola Sosa Zepeda, Paris Jolie Maceda Espejel, Sundury Aloany Valente Solis, Griselda Miranda González, and Dr. Antonieta Martínez-Guerrero at Universidad de las Américas Puebla (UDLAP), in connection with ENTRAMADO Lab. See [AUTHORS.md](AUTHORS.md) for affiliations. ChatGPT/Codex assisted the team with implementation and documentation under human direction.
+Created by  Griselda Miranda González, Paola Sosa Zepeda, Paris Jolie Maceda Espejel, Sundury Aloany Valente Solis, and Dr. Antonieta Martínez-Guerrero at Universidad de las Américas Puebla (UDLAP), in connection with ENTRAMADO Lab. See [AUTHORS.md](AUTHORS.md) for affiliations. ChatGPT/Codex assisted the team with implementation and documentation under human direction.
 
 The project was developed in response to the NASA Space Apps Challenge, **The Earth Information Jukebox**. NASA supplies referenced scientific resources; this project does not claim NASA endorsement. The interface does not display the NASA logo.
 
