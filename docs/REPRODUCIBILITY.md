@@ -35,6 +35,7 @@ The image test class skips when original frames are absent. One additional indep
 node tools/build-welcome-content.mjs
 python build-sound-gallery.py
 node build-offline.mjs
+node tools/verify-release.mjs
 ```
 
 Outputs include `PulsoTerra-sin-internet.html`, `Escuchar-sonidos-PulsoTerra.html`, and the prepared sound package. They are ignored as build outputs. The full app's instruction MP3s and download links are embedded in the offline file.

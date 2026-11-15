@@ -22,7 +22,13 @@ The pre-onboarding release passed 117 Node tests, including 16 focused selector 
 
 The optional Python image checks compare RGB/alpha and hashes with retained official NASA originals. They skip if those originals are not present. Inline JavaScript in generated portable files is also parsed during release checks.
 
-## What these checks do not establish
+## Bilingual welcome-guide release
+
+The release with recorded onboarding passed **125 Node tests**, including eight new welcome-audio behavior tests. Both MP3s loaded and advanced in a browser: English approximately 201.5 seconds and Spanish approximately 260.1 seconds. Browser checks confirmed pause, resume at the same position, replacing one language with the other, stop/reset to zero, and automatically stopping the guide when Start enters the app and focuses its heading. A narrow 386-pixel viewport had no horizontal page overflow. Synthetic speech was generated from the same transcript source used on the page.
+
+These new checks were browser and automated checks, not a new NVDA user study or an additional real NVDA test of every welcome control. The earlier NVDA/Edge findings above remain the evidence for the navigation route taught by the recordings.
+
+## Evaluation boundaries
 
 Speech Viewer confirms text emitted by NVDA, not subjective acoustic quality or pronunciation. Browser playback checks establish that the audio engine or media element starts, advances, pauses, and stops; they are not an expert listening evaluation. The assistant did not physically listen to the music through the computer's speakers. These checks do not certify WCAG conformance or prove usability for all blind users, all assistive technologies, or all possible map combinations.
 
